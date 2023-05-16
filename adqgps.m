@@ -995,3 +995,7 @@ Vmax=max(VSSf);     %Velocidad Máxima
 save Latcf.mat %datos de latitud
 save longcf.mat
 save VSSf.mat
+
+%% guardar workspace 
+[folder, name, ext ]= fileparts(filename);
+save(fullfile(folder, [name, '.mat']))
