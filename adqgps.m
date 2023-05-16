@@ -1,4 +1,4 @@
-clear;clc;close all
+clear;clc;close all;
 %% LECTURA DE DATOS
 [filename, pathname] = uigetfile('*.*');
 filename = fullfile(pathname, filename); % Une toda la ruta de acceso al archivo, pathname y filename
