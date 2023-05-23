@@ -15,6 +15,8 @@ for kk=1:numel(fileList)
     fileName = fullfile(fileList(kk).folder, fileList(kk).name);
     fileinfo = fileList(kk);
     disp(fileName);
+    label = get_label(fileName);
+    disp(label);
     load(fileName);
     tutoria;
     row = table(fileinfo, RPA, VA95percentile, RCS, consumo_total, ...
@@ -24,6 +26,8 @@ for kk=1:numel(fileList)
                 MAPf_media, MAPf_std,  MAPf_sk, ...
                 flujohr_media, flujohr_std,  flujohr_sk, ...
                 aceleracion_media, aceleracion_std,  aceleracion_sk, ...
-                VA_media, VA_std, VA_sk);
+                VA_media, VA_std, VA_sk, label);
     Features = [Features; row];
 end
+
+save('Features', 'Features')
