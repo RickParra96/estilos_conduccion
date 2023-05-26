@@ -6,10 +6,11 @@ Features = table();
 
 rootdir =  './Datos rutas';
 fileList = dir(fullfile(rootdir, '**/*.mat'));  %get list of files and folders in any subfolder
-
-
+acc=cell(numel(fileList),1);
+vel = cell(numel(fileList),1);
+flu = cell(numel(fileList),1);
 for kk=1:numel(fileList)
-    clearvars -except Features row fileList directory kk
+    clearvars -except Features row fileList directory kk acc vel flu
     close all;
     %load("./Datos rutas/08-05-23/casa-trabajo/25.mat")
     fileName = fullfile(fileList(kk).folder, fileList(kk).name);
@@ -28,6 +29,10 @@ for kk=1:numel(fileList)
                 aceleracion_media, aceleracion_std,  aceleracion_sk, ...
                 VA_media, VA_std, VA_sk, label);
     Features = [Features; row];
+    acc{kk} = aceleracion';
+    vel{kk} = VSSf'; 
+    flu{kk} = flujohr';
 end
 
 save('Features', 'Features')
+save('vectores','acc', 'vel', 'flu')
