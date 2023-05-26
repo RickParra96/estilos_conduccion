@@ -9,8 +9,12 @@ fileList = dir(fullfile(rootdir, '**/*.mat'));  %get list of files and folders i
 acc=cell(numel(fileList),1);
 vel = cell(numel(fileList),1);
 flu = cell(numel(fileList),1);
+rpm = cell(numel(fileList),1);
+tps = cell(numel(fileList),1);
+map = cell(numel(fileList),1);
+va = cell(numel(fileList),1);
 for kk=1:numel(fileList)
-    clearvars -except Features row fileList directory kk acc vel flu
+    clearvars -except Features row fileList directory kk acc vel flu rpm tps map va
     close all;
     %load("./Datos rutas/08-05-23/casa-trabajo/25.mat")
     fileName = fullfile(fileList(kk).folder, fileList(kk).name);
@@ -32,7 +36,11 @@ for kk=1:numel(fileList)
     acc{kk} = aceleracion';
     vel{kk} = VSSf'; 
     flu{kk} = flujohr';
+    rpm{kk} = RPMSf';
+    tps{kk} = TPSf';
+    map{kk} = MAPf';
+    va{kk} = VA';
 end
 
 save('Features', 'Features')
-save('vectores','acc', 'vel', 'flu')
+save('vectores','acc', 'vel', 'flu', 'rpm', 'tps', 'map', 'va')
