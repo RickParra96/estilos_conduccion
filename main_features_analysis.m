@@ -30,14 +30,19 @@ et = label.Variables;
 %colorbar
 
 figure
-scatter(score(:, 1), score(:, 2), [], data.VA95percentile , 'filled');
+scatter(score(:, 1), score(:, 2), [], data.RPMSf_media , 'filled');
 xlabel('Component 1');
 ylabel('Component 2');
 title('tsne - Visualisation');
 colormap jet
-colorbar
+a = colorbar;
+a.Label.String  = 'VA 95 percentile';
+
 figure
 gscatter(score(:, 1), score(:, 2),  et);
+xlabel('Component 1');
+ylabel('Component 2');
+title('tsne - Visualisation');
 %%
 %figure
 %x = data.VA95percentile;

@@ -32,7 +32,9 @@ for kk=1:numel(fileList)
                 flujohr_media, flujohr_std,  flujohr_sk, ...
                 aceleracion_media, aceleracion_std,  aceleracion_sk, ...
                 VA_media, VA_std, VA_sk, label);
-    Features = [Features; row];
+    Features = [Features; row]; %cada fila tiene los features de una ruta.
+
+    %guarda vectores de las variables instantáneas.
     acc{kk} = aceleracion';
     vel{kk} = VSSf'; 
     flu{kk} = flujohr';

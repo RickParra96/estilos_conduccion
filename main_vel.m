@@ -33,7 +33,7 @@ end
 
 %% urb=1, rur=2, car=3
 th_urb = 60/3.6; 
-th_rur = 80/3.6;
+th_rur = 75/3.6;
 w = 600;
 
 
@@ -69,15 +69,77 @@ X = [n_win_feat_all; g_win_feat_all];
 %histogram(v(v<60))
 %scatter(v(v<60), f(v<60))
 %%
-fgmayor60 = flug(flug>0 & flug<10 & velg>60/3.6);
-fnmayor60 = flun(flun>0 & flun<10 & veln>60/3.6);
-histogram(fgmayor60,'Normalization','pdf')
+figure % urb
+disp("URBANO")
+fg_rde = flug(flug>0 & flug<10 & velg<th_urb);
+fn_rde = flun(flun>0 & flun<10 & veln<th_urb);
+histogram(fg_rde,'Normalization','pdf')
 hold on
-histogram(fnmayor60,'Normalization','pdf')
+histogram(fn_rde,'Normalization','pdf')
+
+[h, p] = ttest2(fg_rde, fn_rde);
+disp(["Media Ag = ", num2str(mean(fg_rde)), " Media Nor = ", num2str(mean(fn_rde)), " p=", p])
+
+%%
+figure % rur
+disp("RURAL")
+fg_rde = flug(flug>0 & flug<10 & velg>th_urb & velg<th_rur);
+fn_rde = flun(flun>0 & flun<10 & veln>th_urb & veln<th_rur);
+histogram(fg_rde,'Normalization','pdf')
+hold on
+histogram(fn_rde,'Normalization','pdf')
+[h, p] = ttest2(fg_rde, fn_rde);
+disp(["Media Ag = ", num2str(mean(fg_rde)), " Media Nor = ", num2str(mean(fn_rde)), " p=", p])
+%%
+figure % urb
+disp("CARRETERA")
+fg_rde = flug(flug>0 & flug<10 & velg>th_rur);
+fn_rde = flun(flun>0 & flun<10 & veln>th_rur);
+histogram(fg_rde,'Normalization','pdf')
+hold on
+histogram(fn_rde,'Normalization','pdf')
+
+[h, p] = ttest2(fg_rde, fn_rde);
+disp(["Media Ag = ", num2str(mean(fg_rde)), " Media Nor = ", num2str(mean(fn_rde)), " p=", p])
 
 
-[h, p] = ttest2(fgmayor60, fnmayor60)
-disp("Agresivo")
- mean(fgmayor60)
- disp("Normal")
-mean(fnmayor60)
+%% Decision tree
+
+load('trainedModel7.mat')
+
+load('./test/10.mat')
+
+tutoria;
+Xtest = get_features_all_win(VSSf', flujohr', aceleracion', RPMSf', TPSf', MAPf', VA', th_urb, th_rur,w);
+
+Ypred = trainedModel7.predictFcn(Xtest);
+N = size(Ypred, 1);% num de ventanas
+
+urb_g = sum(Ypred(Xtest.umbral_rde==1)=="Agresivo")/sum(Xtest.umbral_rde==1);
+rur_g = sum(Ypred(Xtest.umbral_rde==2)=="Agresivo")/sum(Xtest.umbral_rde==2);
+car_g = sum(Ypred(Xtest.umbral_rde==3)=="Agresivo")/sum(Xtest.umbral_rde==3);
+
+flu_urb= mean(Xtest.flu_mean(Xtest.umbral_rde==1));
+flu_rur= mean(Xtest.flu_mean(Xtest.umbral_rde==2));
+flu_car= mean(Xtest.flu_mean(Xtest.umbral_rde==3));
+
+if urb_g > 0.5
+    urb_g_text = "Agresivo"
+else
+    urb_g_text = "Normal"
+end
+
+if rur_g > 0.5
+    rur_g_text = "Agresivo"
+else
+    rur_g_text = "Normal"
+end
+
+if car_g > 0.5
+    car_g_text = "Agresivo"
+else
+    car_g_text = "Normal"
+end
+fprintf('Urbano %s, consumo %f\n', urb_g_text, flu_urb);
+fprintf('Rural %s, consumo %f\n', rur_g_text, flu_rur);
+fprintf('Carretera %s, consumo %f\n', car_g_text, flu_car);
