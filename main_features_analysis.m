@@ -5,11 +5,9 @@ clc
 load('Features.mat')
 rng(10)
 filtrofilas = setdiff(1:51, [19, 21, 42, 22]);
+filtrocol = setdiff(Features.Properties.VariableNames,{'fileinfo', 'RCS', 'consumo_total', 'aceleracion_media', 'label', 'dist_r'});
 data2 = Features(filtrofilas,:);
-data = Features(filtrofilas, ...
-    {'RPA', 'RPMSf_media', 'VA95percentile', 'MAPf_media','flujohr_media', ...
-    'TPSf_media','VA_media', 'aceleracion_std', 'aceleracion_sk', ...
-    'MAPf_std', 'MAPf_sk', 'RPMSf_std', 'RPMSf_sk', 'TPSf_std'});
+data = Features(filtrofilas, filtrocol);
 label = Features(filtrofilas, 'label');
 [score, loss] = tsne(zscore(data.Variables), 'NumDimensions', 3);
 fileidx = Features(filtrofilas, {'fileinfo'});
@@ -31,19 +29,30 @@ et = label.Variables;
 %colorbar
 
 figure
-scatter(score(:, 1), score(:, 2), [], data.RPMSf_media , 'filled');
+%  'MAPf_media'
+%  'RPA'
+%  'RPMSf_media'     
+%  'TPSf_media'
+%  'VA95percentile'
+%  'VA_media'
+%  'VSSf_media'
+%  'aceleracion_std'
+%  'flujohr_media'
+var_para_graficar = 'flujohr_media'; %modificar esto
+label_grafica = 'flujohr_media'; %modificar esto
+scatter(score(:, 1), score(:, 2), [], data(:,var_para_graficar).Variables , 'filled');
 xlabel('Component 1');
 ylabel('Component 2');
 title('tsne - Visualisation');
 colormap jet
 a = colorbar;
-a.Label.String  = 'VA 95 percentile';
+a.Label.String  = label_grafica;
 
-figure
-gscatter(score(:, 1), score(:, 2),  et);
-xlabel('Component 1');
-ylabel('Component 2');
-title('tsne - Visualisation');
+%figure
+%gscatter(score(:, 1), score(:, 2),  et);
+%xlabel('Component 1');
+%ylabel('Component 2');
+%title('tsne - Visualisation');
 %%
 %figure
 %x = data.VA95percentile;
