@@ -76,7 +76,7 @@ fn_rde = flun(flun>0 & flun<10 & veln<th_urb);
 histogram(fg_rde,'Normalization','pdf')
 hold on
 histogram(fn_rde,'Normalization','pdf')
-
+title("urban")
 [h, p] = ttest2(fg_rde, fn_rde);
 disp(["Media Ag = ", num2str(mean(fg_rde)), " Media Nor = ", num2str(mean(fn_rde)), " p=", p])
 
@@ -89,6 +89,7 @@ histogram(fg_rde,'Normalization','pdf')
 hold on
 histogram(fn_rde,'Normalization','pdf')
 [h, p] = ttest2(fg_rde, fn_rde);
+title("rural")
 disp(["Media Ag = ", num2str(mean(fg_rde)), " Media Nor = ", num2str(mean(fn_rde)), " p=", p])
 %%
 figure % urb
@@ -98,7 +99,7 @@ fn_rde = flun(flun>0 & flun<10 & veln>th_rur);
 histogram(fg_rde,'Normalization','pdf')
 hold on
 histogram(fn_rde,'Normalization','pdf')
-
+title("carretera")
 [h, p] = ttest2(fg_rde, fn_rde);
 disp(["Media Ag = ", num2str(mean(fg_rde)), " Media Nor = ", num2str(mean(fn_rde)), " p=", p])
 
@@ -107,7 +108,7 @@ disp(["Media Ag = ", num2str(mean(fg_rde)), " Media Nor = ", num2str(mean(fn_rde
 
 load('trainedModel7.mat')
 
-load('./test/10.mat')
+load('./test/1.mat')
 
 tutoria;
 Xtest = get_features_all_win(VSSf', flujohr', aceleracion', RPMSf', TPSf', MAPf', VA', th_urb, th_rur,w);
