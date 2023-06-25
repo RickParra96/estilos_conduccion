@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 551.2 398.2"
+	 style="enable-background:new 0 0 551.2 398.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2.25;stroke-linecap:round;stroke-opacity:0;stroke-dasharray:2.25,4.5;}
+	
+		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F2DCDA;stroke:#C05046;stroke-width:2.25;stroke-linecap:round;stroke-dasharray:2.25,4.5;}
+	.st2{fill:none;stroke:#000000;stroke-width:0.24;stroke-linecap:round;stroke-opacity:0;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:0.24;stroke-linecap:round;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.24;stroke-linecap:round;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;}
+	.st6{fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-opacity:0;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.5;stroke-linecap:round;}
+	.st8{font-family:'TimesNewRomanPS-BoldMT';}
+	.st9{font-size:14px;}
+	.st10{fill:none;stroke:#000000;stroke-width:2.25;stroke-linecap:round;stroke-opacity:0;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#923931;stroke-width:2.25;stroke-linecap:round;}
+	.st12{font-size:12px;}
+	.st13{font-size:10px;}
+	
+		.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#FFF2CC;stroke:#FFC000;stroke-width:2.25;stroke-linecap:round;stroke-dasharray:2.25,4.5;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FFC000;stroke-width:2.25;stroke-linecap:round;}
+	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:#64BC56;}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#454545;}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:#383838;}
+	.st19{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.498;}
+	.st20{fill-rule:evenodd;clip-rule:evenodd;fill:#101014;}
+	.st21{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.2;}
+	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#B2021C;}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:#262823;}
+	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	
+		.st25{fill-rule:evenodd;clip-rule:evenodd;fill:#EBF1DF;stroke:#00B050;stroke-width:2.25;stroke-linecap:round;stroke-dasharray:2.25,4.5;}
+	.st26{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#00B050;stroke-width:2.25;stroke-linecap:round;}
+	.st27{fill:none;stroke:#000000;stroke-width:2.16;stroke-linecap:round;stroke-opacity:0;}
+	.st28{fill:none;stroke:#000000;stroke-width:2.16;stroke-linecap:round;}
+	.st29{fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-opacity:0;stroke-dasharray:5.25,3.75;}
+	.st30{fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:5.25,3.75;}
+	.st31{fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-opacity:0;stroke-dasharray:2,1.5;}
+	.st32{fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-dasharray:2,1.5;}
+	.st33{font-family:'TimesNewRomanPS-BoldItalicMT';}
+</style>
+<v:documentProperties>
+	<v:userDefs>
+		<v:ud  v:nameU="msvNoAutoConnect" v:val="1"></v:ud>
+	</v:userDefs>
+</v:documentProperties>
+<g id="SFixTitle">
+</g>
+<g id="SContent">
+	<g>
+		<g transform="matrix(1,0,0,-1,0,792)">
+			<g transform="matrix(0,1,-1,-0,531,324)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,612,621)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st0" d="M-610.9,52.9h549l0,0v117l0,0h-549l0,0V52.9"/>
+				</g>
+				<path class="st1" d="M-610.9,52.9h549l0,0v117l0,0h-549l0,0V52.9"/>
+			</g>
+			<g transform="matrix(1,0,0,1,737.7273,629.99994)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Cost" nameU="Cost" type="7" val="0"></cp>
+					<cp  langID="1033" lbl="Duration" nameU="Duration" type="2" val="0"></cp>
+					<cp  langID="1033" lbl="Resources" nameU="Resources" type="0" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Cost" nameU="Cost" type="7" val="0"></cp>
+						<cp  langID="1033" lbl="Duration" nameU="Duration" type="2" val="0"></cp>
+						<cp  langID="1033" lbl="Resources" nameU="Resources" type="0" val="0"></cp>
+					</custProps>
+					<path class="st2" d="M-610.9,77.1V55.6l0,0c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+						c6.3,0.3,10.9,1.4,10.9,2.7l0,0v21.5l0,0c0,1.3-4.6,2.4-10.9,2.7l0,0c-0.9,0-1.8,0.1-2.7,0.1l0,0c-0.9,0-1.8,0-2.7-0.1l0,0
+						C-606.3,79.5-610.9,78.4-610.9,77.1z"/>
+				</g>
+				<path class="st3" d="M-610.9,77.1V55.6l0,0c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+					c6.3,0.3,10.9,1.4,10.9,2.7l0,0v21.5l0,0c0,1.3-4.6,2.4-10.9,2.7l0,0c-0.9,0-1.8,0.1-2.7,0.1l0,0c-0.9,0-1.8,0-2.7-0.1l0,0
+					C-606.3,79.5-610.9,78.4-610.9,77.1z"/>
+				<path class="st4" d="M-610.9,77.1c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+					c6.3,0.3,10.9,1.4,10.9,2.7"/>
+				<path class="st4" d="M-610.9,75.7c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+					c6.3,0.3,10.9,1.4,10.9,2.7l0,0c0,0,0,0,0,0"/>
+				<path class="st4" d="M-610.9,74.4c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+					c6.3,0.3,10.9,1.4,10.9,2.7l0,0c0,0,0,0,0,0"/>
+			</g>
+			<g transform="matrix(1,0,0,1,872.86365,627.8182)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st5" d="M-584.7,57l-4.3,4.3l0,0c-0.6,0.6-1.4,0.8-2.1,0.6l0,0l-1.5,1.5l0,0c1.3,1.7,2.1,3.9,2.1,6.2l0,0
+						c0,5.6-4.6,10.2-10.2,10.2l0,0c-5.6,0-10.2-4.6-10.2-10.2l0,0c0-5.6,4.6-10.2,10.2-10.2l0,0c2.3,0,4.5,0.8,6.2,2.1l0,0l1.5-1.5
+						l0,0c-0.1-0.8,0.1-1.5,0.6-2.1l0,0l4.3-4.3l0,0c0.5-0.5,1.1-0.7,1.7-0.7l0,0c0.6,0,1.2,0.2,1.7,0.7l0,0
+						C-583.7,54.5-583.7,56-584.7,57L-584.7,57L-584.7,57 M-600.7,61.4c-4.5,0-8.2,3.7-8.2,8.2l0,0c0,4.5,3.7,8.2,8.2,8.2l0,0
+						c4.5,0,8.2-3.7,8.2-8.2l0,0C-592.5,65.1-596.2,61.4-600.7,61.4L-600.7,61.4L-600.7,61.4"/>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,1098,623.12354)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st5" d="M-584.7,67.3l-2.7,4.7l0,0v0.2l0,0c0.2,6.5-4.8,11.9-11.3,12.2l0,0c-6.5,0.2-11.9-4.8-12.2-11.3l0,0
+						c0-0.3,0-0.6,0-0.9l0,0c0-3.7,1.7-7.2,4.6-9.5l0,0v-9.9l0,0h12.3l0,0v4.7l0,0h1.9l0,0c2.5,0,4.6,2.1,4.6,4.6l0,0
+						c0,0,0,0.1,0,0.1l0,0v2.3l0,0h1.7l0,0C-584.6,64.7-583.7,65.9-584.7,67.3L-584.7,67.3L-584.7,67.3 M-595.5,79.2l1,1l0,0
+						c0.2,0.2,0.5,0.2,0.7,0l0,0c0.2-0.2,0.2-0.5,0-0.7l0,0l-1-1l0,0c-0.2-0.2-0.5-0.2-0.7,0l0,0C-595.7,78.6-595.7,78.9-595.5,79.2
+						L-595.5,79.2C-595.5,79.1-595.5,79.2-595.5,79.2L-595.5,79.2L-595.5,79.2 M-600.1,82.2c0,0.3,0.2,0.5,0.5,0.5l0,0
+						c0.3,0,0.5-0.2,0.5-0.5l0,0v-1.4l0,0c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0V82.2 M-605.4,80.2
+						c0.2,0.2,0.5,0.2,0.7,0l0,0l1-1l0,0c0.2-0.2,0.2-0.5,0-0.7l0,0c-0.2-0.2-0.5-0.2-0.7,0l0,0l-1,1l0,0
+						C-605.6,79.7-605.6,80-605.4,80.2L-605.4,80.2C-605.4,80.2-605.4,80.2-605.4,80.2L-605.4,80.2L-605.4,80.2 M-607.2,74.2
+						c-0.3,0-0.5,0.2-0.5,0.5l0,0c0,0.3,0.2,0.5,0.5,0.5l0,0h1.4l0,0c0.3,0,0.5-0.2,0.5-0.5l0,0c0-0.3-0.2-0.5-0.5-0.5l0,0H-607.2
+						 M-603.7,70.1l-1-1l0,0c-0.2-0.2-0.5-0.2-0.7,0l0,0c-0.2,0.2-0.2,0.5,0,0.7l0,0l1,1l0,0c0.2,0.2,0.5,0.2,0.7,0l0,0
+						C-603.5,70.6-603.5,70.3-603.7,70.1L-603.7,70.1L-603.7,70.1 M-599.6,65.3c-0.7,0-1.2,0.5-1.3,1.2l0,0h2.5l0,0
+						C-598.4,65.8-599,65.3-599.6,65.3L-599.6,65.3L-599.6,65.3 M-597.9,67.2h-3.4l0,0c-0.3,0-0.6,0.3-0.6,0.6l0,0
+						c0,0.3,0.3,0.6,0.6,0.6l0,0h3.4l0,0c0.3,0,0.6-0.3,0.6-0.6l0,0C-597.3,67.5-597.6,67.2-597.9,67.2L-597.9,67.2L-597.9,67.2
+						 M-597,69.4c-0.1-0.1-0.2-0.2-0.3-0.2l0,0h-4.5l0,0c-0.1,0-0.3,0.1-0.3,0.2l0,0c-0.3,0.7-0.7,1.3-1.2,1.9l0,0
+						c-0.4,0.4-0.7,0.9-0.9,1.4l0,0c-0.2,0.6-0.3,1.1-0.3,1.7l0,0v0.2l0,0c0,2.7,2.3,4.9,5,4.9l0,0l0,0l0,0c2.7,0,5-2.2,5-4.9l0,0
+						v-0.2l0,0c0-0.6-0.1-1.2-0.3-1.7l0,0c-0.2-0.5-0.5-1-0.9-1.4l0,0C-596.3,70.7-596.7,70.1-597,69.4L-597,69.4L-597,69.4
+						 M-593.8,69.2c-0.2-0.2-0.5-0.2-0.7,0l0,0l-1,1l0,0c-0.2,0.2-0.2,0.5,0,0.7l0,0c0.2,0.2,0.5,0.2,0.7,0l0,0l1-1l0,0
+						C-593.6,69.7-593.6,69.4-593.8,69.2L-593.8,69.2L-593.8,69.2 M-592,74.2h-1.4l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+						c0,0.3,0.2,0.5,0.5,0.5l0,0h1.4l0,0c0.3,0,0.5-0.2,0.5-0.5l0,0C-591.5,74.4-591.8,74.2-592,74.2L-592,74.2L-592,74.2"/>
+				</g>
+				<g transform="matrix(1,0,0,1,7.4090123,17.47598)">
+					<path class="st5" d="M-607,61L-607,61L-607,61c-2.1,0-3.8-1.7-3.8-3.8l0,0V57l0,0c0-0.5,0.1-0.9,0.3-1.3l0,0
+						c0.2-0.4,0.4-0.7,0.6-1.1l0,0c0.4-0.5,0.8-1.1,1.1-1.7l0,0h3.6l0,0c0.3,0.6,0.7,1.2,1.1,1.7l0,0c0.3,0.3,0.5,0.7,0.6,1.1l0,0
+						c0.2,0.4,0.3,0.9,0.3,1.3l0,0v0.1l0,0C-603.2,59.3-604.9,60.9-607,61L-607,61L-607,61"/>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,796.5,670.5)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<path class="st6" d="M-610.9,73.1V59.6l0,0h29.2l0,0v-6.8l0,0l6.8,13.5l0,0l-6.8,13.5l0,0v-6.8l0,0H-610.9z"/>
+				</g>
+				<path class="st7" d="M-610.9,73.1V59.6l0,0h29.2l0,0v-6.8l0,0l6.8,13.5l0,0l-6.8,13.5l0,0v-6.8l0,0H-610.9z"/>
+			</g>
+			<g transform="matrix(1,0,0,1,918,669.8268)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<path class="st6" d="M-610.9,74.1V60l0,0h28.9l0,0v-7.1l0,0l7.1,14.2l0,0l-7.1,14.2l0,0v-7.1l0,0H-610.9z"/>
+				</g>
+				<path class="st7" d="M-610.9,74.1V60l0,0h28.9l0,0v-7.1l0,0l7.1,14.2l0,0l-7.1,14.2l0,0v-7.1l0,0H-610.9z"/>
+			</g>
+			<g transform="matrix(1,0,0,1,603,721.19995)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -601.1338 57.075)" class="st8 st9">Fase 1: Recolección de datos</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,711,659.25)">
+				<userDefs>
+					<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+					<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+					<ud  nameU="CornerLockHoriz" val="1"></ud>
+					<ud  nameU="CornerLockVert" val="1"></ud>
+					<ud  nameU="CornerLockDiag" val="0"></ud>
+					<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+					<ud  nameU="TopRightOffset" val="0.1125"></ud>
+					<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+					<ud  nameU="BotRightOffset" val="0.1125"></ud>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+						<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+						<ud  nameU="CornerLockHoriz" val="1"></ud>
+						<ud  nameU="CornerLockVert" val="1"></ud>
+						<ud  nameU="CornerLockDiag" val="0"></ud>
+						<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+						<ud  nameU="TopRightOffset" val="0.1125"></ud>
+						<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+						<ud  nameU="BotRightOffset" val="0.1125"></ud>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+					</userDefs>
+					<path class="st10" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+						c0,0,0,0,0,0l0,0l0,0l0,0v37.8l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+						l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+						l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+						L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				</g>
+				<path class="st11" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+					c0,0,0,0,0,0l0,0l0,0l0,0v37.8l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+					l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+					l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+					L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -601.0547 83.475)" class="st8 st12">Adquisición</text>
+					<text transform="matrix(1 0 0 -1 -591.5449 69.075)" class="st8 st12">de datos</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,832.5,657)">
+				<userDefs>
+					<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+					<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+					<ud  nameU="CornerLockHoriz" val="1"></ud>
+					<ud  nameU="CornerLockVert" val="1"></ud>
+					<ud  nameU="CornerLockDiag" val="0"></ud>
+					<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+					<ud  nameU="TopRightOffset" val="0.1125"></ud>
+					<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+					<ud  nameU="BotRightOffset" val="0.1125"></ud>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+						<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+						<ud  nameU="CornerLockHoriz" val="1"></ud>
+						<ud  nameU="CornerLockVert" val="1"></ud>
+						<ud  nameU="CornerLockDiag" val="0"></ud>
+						<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+						<ud  nameU="TopRightOffset" val="0.1125"></ud>
+						<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+						<ud  nameU="BotRightOffset" val="0.1125"></ud>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+					</userDefs>
+					<path class="st10" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+						c0,0,0,0,0,0l0,0l0,0l0,0v40l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+						l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+						l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+						L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				</g>
+				<path class="st11" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+					c0,0,0,0,0,0l0,0l0,0l0,0v40l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+					l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+					l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+					L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -604.5439 91.8)" class="st8 st12">Obtención de</text>
+					<text transform="matrix(1 0 0 -1 -600.0322 77.4)" class="st8 st12">parámetros</text>
+					<text transform="matrix(1 0 0 -1 -595.2012 63)" class="st8 st12">de interés</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,954,657)">
+				<userDefs>
+					<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+					<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+					<ud  nameU="CornerLockHoriz" val="1"></ud>
+					<ud  nameU="CornerLockVert" val="1"></ud>
+					<ud  nameU="CornerLockDiag" val="0"></ud>
+					<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+					<ud  nameU="TopRightOffset" val="0.1125"></ud>
+					<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+					<ud  nameU="BotRightOffset" val="0.1125"></ud>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+						<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+						<ud  nameU="CornerLockHoriz" val="1"></ud>
+						<ud  nameU="CornerLockVert" val="1"></ud>
+						<ud  nameU="CornerLockDiag" val="0"></ud>
+						<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+						<ud  nameU="TopRightOffset" val="0.1125"></ud>
+						<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+						<ud  nameU="BotRightOffset" val="0.1125"></ud>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+					</userDefs>
+					<path class="st10" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+						c0,0,0,0,0,0l0,0l0,0l0,0v40l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+						l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+						l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+						L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				</g>
+				<path class="st11" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+					c0,0,0,0,0,0l0,0l0,0l0,0v40l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+					l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+					l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+					L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -605.8682 91.8)" class="st8 st12">Extracción de</text>
+					<text transform="matrix(1 0 0 -1 -599.373 77.4)" class="st8 st12">estadísticas</text>
+					<text transform="matrix(1 0 0 -1 -591.873 63)" class="st8 st12">por ruta</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,1071,657)">
+				<userDefs>
+					<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+					<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+					<ud  nameU="CornerLockHoriz" val="1"></ud>
+					<ud  nameU="CornerLockVert" val="1"></ud>
+					<ud  nameU="CornerLockDiag" val="0"></ud>
+					<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+					<ud  nameU="TopRightOffset" val="0.1125"></ud>
+					<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+					<ud  nameU="BotRightOffset" val="0.1125"></ud>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+						<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+						<ud  nameU="CornerLockHoriz" val="1"></ud>
+						<ud  nameU="CornerLockVert" val="1"></ud>
+						<ud  nameU="CornerLockDiag" val="0"></ud>
+						<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+						<ud  nameU="TopRightOffset" val="0.1125"></ud>
+						<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+						<ud  nameU="BotRightOffset" val="0.1125"></ud>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+					</userDefs>
+					<path class="st10" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+						c0,0,0,0,0,0l0,0l0,0l0,0v40l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+						l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+						l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+						L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				</g>
+				<path class="st11" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+					c0,0,0,0,0,0l0,0l0,0l0,0v40l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+					l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+					l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+					L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -590.7158 84.6)" class="st8 st12">Análisis</text>
+					<text transform="matrix(1 0 0 -1 -602.0332 70.2)" class="st8 st12">exploratorio</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,1035,670.9518)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<path class="st6" d="M-610.9,74.1V60l0,0h28.9l0,0v-7.1l0,0l7.1,14.2l0,0l-7.1,14.2l0,0v-7.1l0,0H-610.9z"/>
+				</g>
+				<path class="st7" d="M-610.9,74.1V60l0,0h28.9l0,0v-7.1l0,0l7.1,14.2l0,0l-7.1,14.2l0,0v-7.1l0,0H-610.9z"/>
+			</g>
+			<g transform="matrix(1,0,0,1,981.61365,629.86365)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st5" d="M-586.1,55.3h-24.7l0,0v-2.4l0,0h27.1l0,0V80l0,0h-2.4l0,0V55.3"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0,5.1479273)">
+					<path class="st5" d="M-610.9,55.4V53l0,0c0,0,0.1,0,0.2,0l0,0c4.9-0.2,7.7,3,8.3,9.5l0,0c0.7,6.7,2.3,6.7,3,6.7l0,0
+						c0.6,0,2.3,0,3-6.7l0,0c0.6-6.3,3.3-9.5,8-9.5l0,0c0.1,0,0.2,0,0.4,0l0,0c0.1,0,0.2,0,0.2,0l0,0v2.4l0,0c-0.1,0-0.2,0-0.3,0
+						l0,0c-1.4,0-5.1-0.2-5.9,7.3l0,0c-0.6,6.2-2.2,8.8-5.3,8.8l0,0c-3.1,0-4.7-2.6-5.4-8.7l0,0c-0.8-7.5-4.5-7.4-5.9-7.3l0,0
+						C-610.7,55.4-610.8,55.4-610.9,55.4L-610.9,55.4L-610.9,55.4"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.093984,13.488369)">
+					<path class="st5" d="M-610.9,52.9h0.8l0,0v2l0,0h-0.8l0,0V52.9z"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.093984,9.896791)">
+					<path class="st5" d="M-610.9,52.9h0.8l0,0v2l0,0h-0.8l0,0V52.9z"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.093984,16.960228)">
+					<path class="st5" d="M-610.9,52.9h0.8l0,0v2l0,0h-0.8l0,0V52.9z"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.093984,6.3850265)">
+					<path class="st5" d="M-610.9,52.9h0.8l0,0v1.9l0,0h-0.8l0,0V52.9z"/>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,675.5,709)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -540.7051 59.875)" class="st8 st13">(1)</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,792.5,711)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -540.7051 59.875)" class="st8 st13">(2)</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,918.5,710)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -540.7051 59.875)" class="st8 st13">(3)</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,1036,710)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -540.7051 59.875)" class="st8 st13">(4)</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,612,486)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st0" d="M-610.9,52.9h549l0,0v117l0,0h-549l0,0V52.9"/>
+				</g>
+				<path class="st14" d="M-610.9,52.9h549l0,0v117l0,0h-549l0,0V52.9"/>
+			</g>
+			<g transform="matrix(1,0,0,1,544.5,585)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -541.6699 57.075)" class="st8 st9">Fase 2: Entrenamiento</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,711,517.5)">
+				<userDefs>
+					<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+					<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+					<ud  nameU="CornerLockHoriz" val="1"></ud>
+					<ud  nameU="CornerLockVert" val="1"></ud>
+					<ud  nameU="CornerLockDiag" val="0"></ud>
+					<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+					<ud  nameU="TopRightOffset" val="0.1125"></ud>
+					<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+					<ud  nameU="BotRightOffset" val="0.1125"></ud>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+						<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+						<ud  nameU="CornerLockHoriz" val="1"></ud>
+						<ud  nameU="CornerLockVert" val="1"></ud>
+						<ud  nameU="CornerLockDiag" val="0"></ud>
+						<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+						<ud  nameU="TopRightOffset" val="0.1125"></ud>
+						<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+						<ud  nameU="BotRightOffset" val="0.1125"></ud>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+					</userDefs>
+					<path class="st10" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+						c0,0,0,0,0,0l0,0l0,0l0,0v37.8l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+						l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+						l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+						L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				</g>
+				<path class="st15" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+					c0,0,0,0,0,0l0,0l0,0l0,0v37.8l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+					l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+					l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+					L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -601.7051 76.275)" class="st8 st12">Clasificador</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,834.75,517.5)">
+				<userDefs>
+					<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+					<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+					<ud  nameU="CornerLockHoriz" val="1"></ud>
+					<ud  nameU="CornerLockVert" val="1"></ud>
+					<ud  nameU="CornerLockDiag" val="0"></ud>
+					<ud  nameU="TopLeftOffset" val="0.13125"></ud>
+					<ud  nameU="TopRightOffset" val="0.13125"></ud>
+					<ud  nameU="BotLeftOffset" val="0.13125"></ud>
+					<ud  nameU="BotRightOffset" val="0.13125"></ud>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+						<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+						<ud  nameU="CornerLockHoriz" val="1"></ud>
+						<ud  nameU="CornerLockVert" val="1"></ud>
+						<ud  nameU="CornerLockDiag" val="0"></ud>
+						<ud  nameU="TopLeftOffset" val="0.13125"></ud>
+						<ud  nameU="TopRightOffset" val="0.13125"></ud>
+						<ud  nameU="BotLeftOffset" val="0.13125"></ud>
+						<ud  nameU="BotRightOffset" val="0.13125"></ud>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+					</userDefs>
+					<path class="st10" d="M-601.4,52.9h75.6l0,0l0,0l0,0l0,0l0,0c2.5,0,4.9,1,6.7,2.8l0,0c1.8,1.8,2.8,4.2,2.8,6.7l0,0c0,0,0,0,0,0
+						l0,0l0,0l0,0v35.1l0,0v0l0,0c0,2.5-1,4.9-2.8,6.7l0,0c-1.8,1.8-4.2,2.8-6.7,2.8l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0l0,0h-75.6l0,0
+						l0,0l0,0l0,0l0,0c-2.5,0-4.9-1-6.7-2.8l0,0c-1.8-1.8-2.8-4.2-2.8-6.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V62.3l0,0l0,0l0,0
+						c0-2.5,1-4.9,2.8-6.7l0,0C-606.3,53.9-603.9,52.9-601.4,52.9L-601.4,52.9C-601.4,52.9-601.4,52.9-601.4,52.9L-601.4,52.9
+						L-601.4,52.9L-601.4,52.9L-601.4,52.9z"/>
+				</g>
+				<path class="st15" d="M-601.4,52.9h75.6l0,0l0,0l0,0l0,0l0,0c2.5,0,4.9,1,6.7,2.8l0,0c1.8,1.8,2.8,4.2,2.8,6.7l0,0c0,0,0,0,0,0
+					l0,0l0,0l0,0v35.1l0,0v0l0,0c0,2.5-1,4.9-2.8,6.7l0,0c-1.8,1.8-4.2,2.8-6.7,2.8l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0l0,0h-75.6l0,0
+					l0,0l0,0l0,0l0,0c-2.5,0-4.9-1-6.7-2.8l0,0c-1.8-1.8-2.8-4.2-2.8-6.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V62.3l0,0l0,0l0,0
+					c0-2.5,1-4.9,2.8-6.7l0,0C-606.3,53.9-603.9,52.9-601.4,52.9L-601.4,52.9C-601.4,52.9-601.4,52.9-601.4,52.9L-601.4,52.9
+					L-601.4,52.9L-601.4,52.9L-601.4,52.9z"/>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -605.7949 83.475)" class="st8 st12">Base de datos de</text>
+					<text transform="matrix(1 0 0 -1 -600.9492 69.075)" class="st8 st12">entrenamiento</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,963,517.5)">
+				<userDefs>
+					<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+					<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+					<ud  nameU="CornerLockHoriz" val="1"></ud>
+					<ud  nameU="CornerLockVert" val="1"></ud>
+					<ud  nameU="CornerLockDiag" val="0"></ud>
+					<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+					<ud  nameU="TopRightOffset" val="0.1125"></ud>
+					<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+					<ud  nameU="BotRightOffset" val="0.1125"></ud>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+						<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+						<ud  nameU="CornerLockHoriz" val="1"></ud>
+						<ud  nameU="CornerLockVert" val="1"></ud>
+						<ud  nameU="CornerLockDiag" val="0"></ud>
+						<ud  nameU="TopLeftOffset" val="0.1125"></ud>
+						<ud  nameU="TopRightOffset" val="0.1125"></ud>
+						<ud  nameU="BotLeftOffset" val="0.1125"></ud>
+						<ud  nameU="BotRightOffset" val="0.1125"></ud>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+					</userDefs>
+					<path class="st10" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+						c0,0,0,0,0,0l0,0l0,0l0,0v37.8l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+						l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+						l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+						L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				</g>
+				<path class="st15" d="M-602.8,52.9h64.8l0,0l0,0l0,0l0,0l0,0c2.1,0,4.2,0.9,5.7,2.4l0,0c1.5,1.5,2.4,3.6,2.4,5.7l0,0
+					c0,0,0,0,0,0l0,0l0,0l0,0v37.8l0,0v0l0,0c0,2.1-0.9,4.2-2.4,5.7l0,0c-1.5,1.5-3.6,2.4-5.7,2.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0
+					l0,0h-64.8l0,0l0,0l0,0l0,0l0,0c-2.1,0-4.2-0.9-5.7-2.4l0,0c-1.5-1.5-2.4-3.6-2.4-5.7l0,0c0,0,0,0,0,0l0,0l0,0l0,0V61l0,0l0,0
+					l0,0c0-2.1,0.9-4.2,2.4-5.7l0,0C-607,53.7-604.9,52.9-602.8,52.9L-602.8,52.9C-602.8,52.9-602.8,52.9-602.8,52.9L-602.8,52.9
+					L-602.8,52.9L-602.8,52.9L-602.8,52.9z"/>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -605.8682 90.675)" class="st8 st12">Extracción de</text>
+					<text transform="matrix(1 0 0 -1 -599.373 76.275)" class="st8 st12">estadísticas</text>
+					<text transform="matrix(1 0 0 -1 -601.21 61.875)" class="st8 st12">por ventana</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,694,567)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -540.7051 59.875)" class="st8 st13">(7)</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,810,567)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -540.7051 59.875)" class="st8 st13">(6)</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,928,567)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -540.7051 59.875)" class="st8 st13">(5)</text>
+				</g>
+			</g>
+			<g transform="matrix(-1,0,0,-1,963,556.875)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<path class="st6" d="M610.9-34.3v-12.4l0,0h27.6l0,0v-6.2l0,0l6.2,12.4l0,0l-6.2,12.4l0,0v-6.2l0,0H610.9z"/>
+				</g>
+				<path class="st7" d="M610.9-34.3v-12.4l0,0h27.6l0,0v-6.2l0,0l6.2,12.4l0,0l-6.2,12.4l0,0v-6.2l0,0H610.9z"/>
+			</g>
+			<g transform="matrix(1,0,0,1,612.13635,671.40295)">
+				<userDefs>
+					<ud  nameU="AntiScale" val="1"></ud>
+					<ud  nameU="HasText" val="0"></ud>
+					<ud  nameU="visVersion" val="16"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="7"></ud>
+					<ud  nameU="ShapeType" val="43"></ud>
+					<ud  nameU="SubShapeType" val="0"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Sitework"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Vehicles"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st16" d="M-589.3,55.9h1.5l0,0v0.2l0,0l-1.5,0l0,0V55.9 M-589.3,79.5v-0.2l0,0l1.5,0l0,0v0.2l0,0H-589.3
+						 M-557.6,70.5c0.2-0.9,0.3-1.9,0.3-2.8l0,0c0-0.9-0.1-1.9-0.3-2.8l0,0c-0.8-4.1-3.3-7.3-6.4-8.2l0,0c0,0-0.8-0.6-1.8-0.6l0,0
+						c-1.1-0.1-2.1-0.1-2.1-0.1l0,0l-6,0.3l0,0l-1.2,0l0,0c0.3-2.6-1.2-3.3-1.2-3.3l0,0c-0.7-0.2-0.6,0.3-0.6,0.3l0,0l0.6,3l0,0l0,0
+						l0,0l-10.4,0l0,0c-0.1-0.3-0.4-0.5-0.7-0.5l0,0h-1.7l0,0c-0.3,0-0.6,0.2-0.7,0.5l0,0l-10.6,0l0,0l-2.6-0.1l0,0
+						c-2.3-0.1-6.7,0.7-7.6,7.8l0,0l-0.1,3.9l0,0l0.1,3.9l0,0c0.9,7.2,5.3,8,7.6,7.8l0,0l2.6-0.1l0,0l10.6,0l0,0
+						c0.1,0.3,0.4,0.5,0.7,0.5l0,0h1.7l0,0c0.3,0,0.6-0.2,0.7-0.5l0,0l10.4,0l0,0l0,0l0,0l-0.6,3l0,0c0,0-0.1,0.4,0.6,0.3l0,0
+						c0,0,1.5-0.7,1.2-3.3l0,0l1.2,0l0,0l6,0.3l0,0c0,0,1-0.1,2.1-0.1l0,0c1.1-0.1,1.8-0.6,1.8-0.6l0,0
+						C-560.9,77.9-558.4,74.6-557.6,70.5"/>
+				</g>
+				<g transform="matrix(1,0,0,1,1.5413628,3.2485752)">
+					<path class="st17" d="M-594.2,75.2c-0.1,0.1-0.4,0.3-0.4,0.8l0,0h0.1l0,0c0-0.6,0.5-0.8,0.5-0.8l0,0L-594.2,75.2 M-609.3,64.4
+						c0-7.1,2.9-8.2,2.9-8.2l0,0l-1.1-0.5l0,0c0,0-3.4,0.8-3.4,8.7l0,0c0,7.5,3.4,9,3.4,9l0,0l1-0.7l0,0
+						C-606.5,72.8-609.3,72.2-609.3,64.4 M-595,75.3c0,0-0.5-0.8-0.5-1.8l0,0l-5.2,1l0,0L-595,75.3 M-595,73.5c0,0,0.1,0.8,0.7,1.8
+						l0,0h20.3l0,0C-573.9,75.2-578.1,73.4-595,73.5 M-600.7,54.4l5.2,1l0,0c-0.1-1,0.5-1.8,0.5-1.8l0,0L-600.7,54.4 M-595,55.5
+						c16.9,0.1,21-1.8,21-1.8l0,0h-20.2l0,0c0,0-0.5-0.3-0.5-0.8l0,0h-0.1l0,0c0,0.5,0.3,0.7,0.4,0.8l0,0
+						C-594.9,54.6-595,55.5-595,55.5"/>
+				</g>
+				<g transform="matrix(1,0,0,1,31.508503,4.7992535)">
+					<path class="st18" d="M-598.6,63.3c0.3-9-3.3-10.4-3.3-10.4l0,0l-9,1.3l0,0c0,0,1,4.8,1,9l0,0c0,5.2-1,8.6-1,8.6l0,0l9,1.1l0,0
+						C-601.9,73-598.9,72.7-598.6,63.3"/>
+				</g>
+				<g transform="matrix(1,0,0,1,31.508503,6.142337)">
+					<path class="st19" d="M-601.9,71.6l-9-18.8l0,0c0,0,1,4.8,1,9l0,0c0,5.2-1,8.6-1,8.6l0,0L-601.9,71.6"/>
+				</g>
+				<g transform="matrix(1,0,0,1,3.0831547,4.7996864)">
+					<path class="st20" d="M-610.3,62.9c0-7.5,3-7.9,3-7.9l0,0l-0.7-0.3l0,0c-0.9,0.5-2.9,2-2.9,8.2l0,0c0,6.7,1.9,8.1,2.8,8.4l0,0
+						l0.8-0.5l0,0C-607.3,70.8-610.3,70.6-610.3,62.9 M-570.2,63.2c0.1-8.7-3.3-10.3-3.3-10.3l0,0l-1.3,0.2l0,0
+						c0.8,0.6,3.2,3,3.1,10.1l0,0c-0.2,7-2,9.2-2.8,9.7l0,0l1,0.1l0,0C-573.5,73-570.4,72.5-570.2,63.2"/>
+				</g>
+				<g transform="matrix(1,0,0,1,43.045666,3.0331783)">
+					<path class="st17" d="M-608.9,76.4c-0.8,0.1-1.7,0.1-2,0.1l0,0l0.2,0l0,0c0,0,1-0.1,2.1-0.1l0,0c1.1-0.1,1.8-0.6,1.8-0.6l0,0
+						c3.1-0.9,5.6-4.2,6.4-8.2l0,0c0.2-0.9,0.3-1.9,0.3-2.8l0,0c0-0.9-0.1-1.9-0.3-2.8l0,0c-0.8-4.1-3.3-7.3-6.4-8.2l0,0
+						c0,0-0.7-0.6-1.8-0.6l0,0c-1.1-0.1-2.1-0.1-2.1-0.1l0,0l-0.2,0l0,0c0.3,0,1.1,0.1,2,0.1l0,0c1.1,0.1,1.8,0.6,1.8,0.6l0,0
+						c3.1,0.9,5.6,4.2,6.4,8.2l0,0c0.2,0.9,0.3,1.9,0.3,2.8l0,0c0,0.9-0.1,1.9-0.3,2.8l0,0c-0.8,4.1-3.3,7.3-6.4,8.2l0,0
+						C-607.1,75.7-607.8,76.3-608.9,76.4"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0.31886864,4.4937115)">
+					<path class="st21" d="M-603.8,70.7l23.5,1.4l0,0c0.3-1.3,1-4,1-8.5l0,0c0-3.9-0.8-7.7-1.1-9.1l0,0l-23.3,1l0,0
+						c0,0-2.8,0.6-2.7,7.7l0,0C-606.3,70.3-603.8,70.7-603.8,70.7 M-610.2,63.6c0,0.1,0,0.2-0.1,0.3l0,0c-0.1,0.1-0.2,0.1-0.3,0.1
+						l0,0c-0.1,0-0.2,0-0.3-0.1l0,0c-0.1-0.1-0.1-0.2-0.1-0.3l0,0c0-0.1,0-0.2,0.1-0.3l0,0c0.1-0.1,0.2-0.1,0.3-0.1l0,0
+						c0.1,0,0.2,0,0.3,0.1l0,0C-610.2,63.4-610.2,63.5-610.2,63.6 M-569.5,52.9l-1.2,0.3l0,0c0,0,5,0.4,11.3,3.3l0,0
+						c0,0-1-2.1-3.3-3.5l0,0L-569.5,52.9 M-562.7,73.5c2.3-1.4,3.3-3.5,3.3-3.5l0,0c-6.3,2.9-11.3,3.3-11.3,3.3l0,0l1.2,0.3l0,0
+						L-562.7,73.5"/>
+				</g>
+				<g transform="matrix(1,0,0,1,1.5771275,3.3572226)">
+					<path class="st22" d="M-608.1,54.7c-1.5,0.5-2.8,1.8-2.8,1.8l0,0c1-2.5,3.3-3.3,3.3-3.3l0,0c2.4-0.8,2.1,0.3,1.8,0.7l0,0
+						C-606.1,54.4-607.5,54.5-608.1,54.7 M-608.1,74.1c-1.5-0.5-2.8-1.8-2.8-1.8l0,0c1,2.5,3.3,3.3,3.3,3.3l0,0
+						c2.4,0.8,2.1-0.3,1.8-0.7l0,0C-606.1,74.3-607.5,74.3-608.1,74.1"/>
+				</g>
+				<g transform="matrix(1,0,0,1,3.9148095,14.739113)">
+					<path class="st23" d="M-607.6,53.3c0.1,0,0.2-0.1,0.2-0.2l0,0c0-0.1-0.1-0.2-0.2-0.2l0,0h-0.9l0,0c-0.1,0-0.2,0.1-0.2,0.1l0,0
+						h-0.9l0,0v0l0,0h-1.2l0,0c0,0,0,0,0,0l0,0c0,0,0,0,0,0l0,0h1.2l0,0v0l0,0h0.9l0,0c0,0.1,0.1,0.2,0.2,0.2l0,0H-607.6"/>
+				</g>
+				<g transform="matrix(1,0,0,1,46.844128,3.7937813)">
+					<path class="st24" d="M-610.2,53.6c1.6,1,2.6,2.3,3,3l0,0c0.4,0.2,0.8,0.4,1.2,0.5l0,0c0,0-1-2.1-3.3-3.5l0,0
+						c-0.6-0.4-1.6-0.7-1.6-0.7l0,0L-610.2,53.6 M-607.2,71.2c-0.5,0.7-1.4,2-3,3l0,0l-0.7,0.7l0,0c0,0,1-0.3,1.6-0.7l0,0
+						c2.3-1.4,3.3-3.5,3.3-3.5l0,0C-606.3,70.9-606.8,71.1-607.2,71.2"/>
+				</g>
+			</g>
+			<g transform="matrix(-1,0,0,-1,1151.9318,560.6941)">
+				<userDefs>
+					<ud  nameU="AntiScale" val="1"></ud>
+					<ud  nameU="HasText" val="0"></ud>
+					<ud  nameU="visVersion" val="16"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="7"></ud>
+					<ud  nameU="ShapeType" val="43"></ud>
+					<ud  nameU="SubShapeType" val="0"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Sitework"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Vehicles"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st16" d="M632.5-49.8h1.5l0,0v0.2l0,0l-1.5,0l0,0V-49.8 M632.5-26.3v-0.2l0,0l1.5,0l0,0v0.2l0,0H632.5 M664.2-35.2
+						c0.2-0.9,0.3-1.9,0.3-2.8l0,0c0-0.9-0.1-1.9-0.3-2.8l0,0c-0.8-4.1-3.3-7.3-6.4-8.2l0,0c0,0-0.8-0.6-1.8-0.6l0,0
+						c-1.1-0.1-2.1-0.1-2.1-0.1l0,0l-6,0.3l0,0l-1.2,0l0,0c0.3-2.6-1.2-3.3-1.2-3.3l0,0c-0.7-0.2-0.6,0.3-0.6,0.3l0,0l0.6,3l0,0l0,0
+						l0,0l-10.4,0l0,0c-0.1-0.3-0.4-0.5-0.7-0.5l0,0h-1.7l0,0c-0.3,0-0.6,0.2-0.7,0.5l0,0l-10.6,0l0,0l-2.6-0.1l0,0
+						c-2.3-0.1-6.7,0.7-7.6,7.8l0,0l-0.1,3.9l0,0l0.1,3.9l0,0c0.9,7.2,5.3,8,7.6,7.8l0,0l2.6-0.1l0,0l10.6,0l0,0
+						c0.1,0.3,0.4,0.5,0.7,0.5l0,0h1.7l0,0c0.3,0,0.6-0.2,0.7-0.5l0,0l10.4,0l0,0l0,0l0,0l-0.6,3l0,0c0,0-0.1,0.4,0.6,0.3l0,0
+						c0,0,1.5-0.7,1.2-3.3l0,0l1.2,0l0,0l6,0.3l0,0c0,0,1-0.1,2.1-0.1l0,0c1.1-0.1,1.8-0.6,1.8-0.6l0,0
+						C660.9-27.9,663.3-31.2,664.2-35.2"/>
+				</g>
+				<g transform="matrix(1,0,0,1,1.5413628,3.2485752)">
+					<path class="st17" d="M627.5-30.5c-0.1,0.1-0.4,0.3-0.4,0.8l0,0h0.1l0,0c0-0.6,0.5-0.8,0.5-0.8l0,0L627.5-30.5 M612.4-41.3
+						c0-7.1,2.9-8.2,2.9-8.2l0,0l-1.1-0.5l0,0c0,0-3.4,0.8-3.4,8.7l0,0c0,7.5,3.4,9,3.4,9l0,0l1-0.7l0,0
+						C615.2-33,612.4-33.5,612.4-41.3 M626.8-30.4c0,0-0.5-0.8-0.5-1.8l0,0l-5.2,1l0,0L626.8-30.4 M626.8-32.3c0,0,0.1,0.8,0.7,1.8
+						l0,0h20.3l0,0C647.8-30.5,643.6-32.4,626.8-32.3 M621.1-51.3l5.2,1l0,0c-0.1-1,0.5-1.8,0.5-1.8l0,0L621.1-51.3 M626.8-50.3
+						c16.9,0.1,21-1.8,21-1.8l0,0h-20.2l0,0c0,0-0.5-0.3-0.5-0.8l0,0h-0.1l0,0c0,0.5,0.3,0.7,0.4,0.8l0,0
+						C626.8-51.1,626.8-50.3,626.8-50.3"/>
+				</g>
+				<g transform="matrix(1,0,0,1,31.508503,4.7992535)">
+					<path class="st18" d="M623.1-42.5c0.3-9-3.3-10.4-3.3-10.4l0,0l-9,1.3l0,0c0,0,1,4.8,1,9l0,0c0,5.2-1,8.6-1,8.6l0,0l9,1.1l0,0
+						C619.8-32.8,622.8-33,623.1-42.5"/>
+				</g>
+				<g transform="matrix(1,0,0,1,31.508503,6.142337)">
+					<path class="st19" d="M619.8-34.1l-9-18.8l0,0c0,0,1,4.8,1,9l0,0c0,5.2-1,8.6-1,8.6l0,0L619.8-34.1"/>
+				</g>
+				<g transform="matrix(1,0,0,1,3.0831547,4.7996864)">
+					<path class="st20" d="M611.4-42.9c0-7.5,3-7.9,3-7.9l0,0l-0.7-0.3l0,0c-0.9,0.5-2.9,2-2.9,8.2l0,0c0,6.7,1.9,8.1,2.8,8.4l0,0
+						l0.8-0.5l0,0C614.5-35,611.4-35.1,611.4-42.9 M651.5-42.6c0.1-8.7-3.3-10.3-3.3-10.3l0,0l-1.3,0.2l0,0c0.8,0.6,3.2,3,3.1,10.1
+						l0,0c-0.2,7-2,9.2-2.8,9.7l0,0l1,0.1l0,0C648.3-32.8,651.4-33.2,651.5-42.6"/>
+				</g>
+				<g transform="matrix(1,0,0,1,43.045666,3.0331783)">
+					<path class="st17" d="M612.8-29.4c-0.8,0.1-1.7,0.1-2,0.1l0,0l0.2,0l0,0c0,0,1-0.1,2.1-0.1l0,0c1.1-0.1,1.8-0.6,1.8-0.6l0,0
+						c3.1-0.9,5.6-4.2,6.4-8.2l0,0c0.2-0.9,0.3-1.9,0.3-2.8l0,0c0-0.9-0.1-1.9-0.3-2.8l0,0c-0.8-4.1-3.3-7.3-6.4-8.2l0,0
+						c0,0-0.7-0.6-1.8-0.6l0,0c-1.1-0.1-2.1-0.1-2.1-0.1l0,0l-0.2,0l0,0c0.3,0,1.1,0.1,2,0.1l0,0c1.1,0.1,1.8,0.6,1.8,0.6l0,0
+						c3.1,0.9,5.6,4.2,6.4,8.2l0,0c0.2,0.9,0.3,1.9,0.3,2.8l0,0c0,0.9-0.1,1.9-0.3,2.8l0,0c-0.8,4.1-3.3,7.3-6.4,8.2l0,0
+						C614.7-30,613.9-29.5,612.8-29.4"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0.31886864,4.4937115)">
+					<path class="st21" d="M617.9-35l23.5,1.4l0,0c0.3-1.3,1-4,1-8.5l0,0c0-3.9-0.8-7.7-1.1-9.1l0,0l-23.3,1l0,0
+						c0,0-2.8,0.6-2.7,7.7l0,0C615.5-35.4,617.9-35,617.9-35 M611.6-42.2c0,0.1,0,0.2-0.1,0.3l0,0c-0.1,0.1-0.2,0.1-0.3,0.1l0,0
+						c-0.1,0-0.2,0-0.3-0.1l0,0c-0.1-0.1-0.1-0.2-0.1-0.3l0,0c0-0.1,0-0.2,0.1-0.3l0,0c0.1-0.1,0.2-0.1,0.3-0.1l0,0
+						c0.1,0,0.2,0,0.3,0.1l0,0C611.6-42.4,611.6-42.3,611.6-42.2 M652.2-52.9l-1.2,0.3l0,0c0,0,5,0.4,11.3,3.3l0,0
+						c0,0-1-2.1-3.3-3.5l0,0L652.2-52.9 M659-32.2c2.3-1.4,3.3-3.5,3.3-3.5l0,0c-6.3,2.9-11.3,3.3-11.3,3.3l0,0l1.2,0.3l0,0
+						L659-32.2"/>
+				</g>
+				<g transform="matrix(1,0,0,1,1.5771275,3.3572226)">
+					<path class="st22" d="M613.7-51.1c-1.5,0.5-2.8,1.8-2.8,1.8l0,0c1-2.5,3.3-3.3,3.3-3.3l0,0c2.4-0.8,2.1,0.3,1.8,0.7l0,0
+						C615.7-51.3,614.3-51.3,613.7-51.1 M613.7-31.7c-1.5-0.5-2.8-1.8-2.8-1.8l0,0c1,2.5,3.3,3.3,3.3,3.3l0,0
+						c2.4,0.8,2.1-0.3,1.8-0.7l0,0C615.7-31.4,614.3-31.5,613.7-31.7"/>
+				</g>
+				<g transform="matrix(1,0,0,1,3.9148095,14.739113)">
+					<path class="st23" d="M614.2-52.4c0.1,0,0.2-0.1,0.2-0.2l0,0c0-0.1-0.1-0.2-0.2-0.2l0,0h-0.9l0,0c-0.1,0-0.2,0.1-0.2,0.1l0,0
+						h-0.9l0,0v0l0,0h-1.2l0,0c0,0,0,0,0,0l0,0c0,0,0,0,0,0l0,0h1.2l0,0v0l0,0h0.9l0,0c0,0.1,0.1,0.2,0.2,0.2l0,0H614.2"/>
+				</g>
+				<g transform="matrix(1,0,0,1,46.844128,3.7937813)">
+					<path class="st24" d="M611.6-52.2c1.6,1,2.6,2.3,3,3l0,0c0.4,0.2,0.8,0.4,1.2,0.5l0,0c0,0-1-2.1-3.3-3.5l0,0
+						c-0.6-0.4-1.6-0.7-1.6-0.7l0,0L611.6-52.2 M614.6-34.5c-0.5,0.7-1.4,2-3,3l0,0l-0.7,0.7l0,0c0,0,1-0.3,1.6-0.7l0,0
+						c2.3-1.4,3.3-3.5,3.3-3.5l0,0C615.4-34.9,615-34.7,614.6-34.5"/>
+				</g>
+			</g>
+			<g transform="matrix(-1,0,0,-1,834.75,556.875)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<path class="st6" d="M610.9-34.3v-12.4l0,0h36.6l0,0v-6.2l0,0l6.2,12.4l0,0l-6.2,12.4l0,0v-6.2l0,0H610.9z"/>
+				</g>
+				<path class="st7" d="M610.9-34.3v-12.4l0,0h36.6l0,0v-6.2l0,0l6.2,12.4l0,0l-6.2,12.4l0,0v-6.2l0,0H610.9z"/>
+			</g>
+			<g transform="matrix(1,0,0,1,612,342)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st0" d="M-610.9,52.9h549l0,0v126l0,0h-549l0,0V52.9"/>
+				</g>
+				<path class="st25" d="M-610.9,52.9h549l0,0v126l0,0h-549l0,0V52.9"/>
+			</g>
+			<g transform="matrix(1,0,0,1,828,385.70273)">
+				<userDefs>
+					<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+					<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+					<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+					<ud  nameU="CornerLockHoriz" val="1"></ud>
+					<ud  nameU="CornerLockVert" val="1"></ud>
+					<ud  nameU="CornerLockDiag" val="0"></ud>
+					<ud  nameU="TopLeftOffset" val="0.1453405459613815"></ud>
+					<ud  nameU="TopRightOffset" val="0.1453405459613815"></ud>
+					<ud  nameU="BotLeftOffset" val="0.1453405459613815"></ud>
+					<ud  nameU="BotRightOffset" val="0.1453405459613815"></ud>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="CTypeTopLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeTopRightSnip" val="0"></ud>
+						<ud  nameU="CTypeBotLeftSnip" val="0"></ud>
+						<ud  nameU="CTypeBotRightSnip" val="0"></ud>
+						<ud  nameU="CornerLockHoriz" val="1"></ud>
+						<ud  nameU="CornerLockVert" val="1"></ud>
+						<ud  nameU="CornerLockDiag" val="0"></ud>
+						<ud  nameU="TopLeftOffset" val="0.1453405459613815"></ud>
+						<ud  nameU="TopRightOffset" val="0.1453405459613815"></ud>
+						<ud  nameU="BotLeftOffset" val="0.1453405459613815"></ud>
+						<ud  nameU="BotRightOffset" val="0.1453405459613815"></ud>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="visMasterStencil" val="Basic_U.vssx"></ud>
+					</userDefs>
+					<path class="st10" d="M-600.4,52.9h83.7l0,0l0,0l0,0l0,0l0,0c2.8,0,5.4,1.1,7.4,3.1l0,0c2,2,3.1,4.6,3.1,7.4l0,0c0,0,0,0,0,0
+						l0,0v0l0,0v38.9l0,0l0,0l0,0c0,2.8-1.1,5.4-3.1,7.4l0,0c-2,2-4.6,3.1-7.4,3.1l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0l0,0h-83.7l0,0
+						l0,0l0,0l0,0l0,0c-2.8,0-5.4-1.1-7.4-3.1l0,0c-2-2-3.1-4.6-3.1-7.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0V63.3l0,0l0,0l0,0
+						c0-2.8,1.1-5.4,3.1-7.4l0,0C-605.8,54-603.2,52.9-600.4,52.9L-600.4,52.9C-600.4,52.9-600.4,52.9-600.4,52.9L-600.4,52.9
+						L-600.4,52.9L-600.4,52.9L-600.4,52.9z"/>
+				</g>
+				<path class="st26" d="M-600.4,52.9h83.7l0,0l0,0l0,0l0,0l0,0c2.8,0,5.4,1.1,7.4,3.1l0,0c2,2,3.1,4.6,3.1,7.4l0,0c0,0,0,0,0,0
+					l0,0v0l0,0v38.9l0,0l0,0l0,0c0,2.8-1.1,5.4-3.1,7.4l0,0c-2,2-4.6,3.1-7.4,3.1l0,0c0,0,0,0,0,0l0,0l0,0l0,0l0,0l0,0h-83.7l0,0
+					l0,0l0,0l0,0l0,0c-2.8,0-5.4-1.1-7.4-3.1l0,0c-2-2-3.1-4.6-3.1-7.4l0,0c0,0,0,0,0,0l0,0l0,0l0,0V63.3l0,0l0,0l0,0
+					c0-2.8,1.1-5.4,3.1-7.4l0,0C-605.8,54-603.2,52.9-600.4,52.9L-600.4,52.9C-600.4,52.9-600.4,52.9-600.4,52.9L-600.4,52.9
+					L-600.4,52.9L-600.4,52.9L-600.4,52.9z"/>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -577.8826 79.1736)" class="st8 st12">Modelo</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,612,399.15298)">
+				<userDefs>
+					<ud  nameU="AntiScale" val="1"></ud>
+					<ud  nameU="HasText" val="0"></ud>
+					<ud  nameU="visVersion" val="16"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="7"></ud>
+					<ud  nameU="ShapeType" val="43"></ud>
+					<ud  nameU="SubShapeType" val="0"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Sitework"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Vehicles"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st16" d="M-589.3,55.9h1.5l0,0v0.2l0,0l-1.5,0l0,0V55.9 M-589.3,79.5v-0.2l0,0l1.5,0l0,0v0.2l0,0H-589.3
+						 M-557.6,70.5c0.2-0.9,0.3-1.9,0.3-2.8l0,0c0-0.9-0.1-1.9-0.3-2.8l0,0c-0.8-4.1-3.3-7.3-6.4-8.2l0,0c0,0-0.8-0.6-1.8-0.6l0,0
+						c-1.1-0.1-2.1-0.1-2.1-0.1l0,0l-6,0.3l0,0l-1.2,0l0,0c0.3-2.6-1.2-3.3-1.2-3.3l0,0c-0.7-0.2-0.6,0.3-0.6,0.3l0,0l0.6,3l0,0l0,0
+						l0,0l-10.4,0l0,0c-0.1-0.3-0.4-0.5-0.7-0.5l0,0h-1.7l0,0c-0.3,0-0.6,0.2-0.7,0.5l0,0l-10.6,0l0,0l-2.6-0.1l0,0
+						c-2.3-0.1-6.7,0.7-7.6,7.8l0,0l-0.1,3.9l0,0l0.1,3.9l0,0c0.9,7.2,5.3,8,7.6,7.8l0,0l2.6-0.1l0,0l10.6,0l0,0
+						c0.1,0.3,0.4,0.5,0.7,0.5l0,0h1.7l0,0c0.3,0,0.6-0.2,0.7-0.5l0,0l10.4,0l0,0l0,0l0,0l-0.6,3l0,0c0,0-0.1,0.4,0.6,0.3l0,0
+						c0,0,1.5-0.7,1.2-3.3l0,0l1.2,0l0,0l6,0.3l0,0c0,0,1-0.1,2.1-0.1l0,0c1.1-0.1,1.8-0.6,1.8-0.6l0,0
+						C-560.9,77.9-558.4,74.6-557.6,70.5"/>
+				</g>
+				<g transform="matrix(1,0,0,1,1.5413628,3.2485752)">
+					<path class="st17" d="M-594.2,75.2c-0.1,0.1-0.4,0.3-0.4,0.8l0,0h0.1l0,0c0-0.6,0.5-0.8,0.5-0.8l0,0L-594.2,75.2 M-609.3,64.4
+						c0-7.1,2.9-8.2,2.9-8.2l0,0l-1.1-0.5l0,0c0,0-3.4,0.8-3.4,8.7l0,0c0,7.5,3.4,9,3.4,9l0,0l1-0.7l0,0
+						C-606.5,72.8-609.3,72.2-609.3,64.4 M-595,75.3c0,0-0.5-0.8-0.5-1.8l0,0l-5.2,1l0,0L-595,75.3 M-595,73.5c0,0,0.1,0.8,0.7,1.8
+						l0,0h20.3l0,0C-573.9,75.2-578.1,73.4-595,73.5 M-600.7,54.4l5.2,1l0,0c-0.1-1,0.5-1.8,0.5-1.8l0,0L-600.7,54.4 M-595,55.5
+						c16.9,0.1,21-1.8,21-1.8l0,0h-20.2l0,0c0,0-0.5-0.3-0.5-0.8l0,0h-0.1l0,0c0,0.5,0.3,0.7,0.4,0.8l0,0
+						C-594.9,54.6-595,55.5-595,55.5"/>
+				</g>
+				<g transform="matrix(1,0,0,1,31.508503,4.7992535)">
+					<path class="st18" d="M-598.6,63.3c0.3-9-3.3-10.4-3.3-10.4l0,0l-9,1.3l0,0c0,0,1,4.8,1,9l0,0c0,5.2-1,8.6-1,8.6l0,0l9,1.1l0,0
+						C-601.9,73-598.9,72.7-598.6,63.3"/>
+				</g>
+				<g transform="matrix(1,0,0,1,31.508503,6.142337)">
+					<path class="st19" d="M-601.9,71.6l-9-18.8l0,0c0,0,1,4.8,1,9l0,0c0,5.2-1,8.6-1,8.6l0,0L-601.9,71.6"/>
+				</g>
+				<g transform="matrix(1,0,0,1,3.0831547,4.7996864)">
+					<path class="st20" d="M-610.3,62.9c0-7.5,3-7.9,3-7.9l0,0l-0.7-0.3l0,0c-0.9,0.5-2.9,2-2.9,8.2l0,0c0,6.7,1.9,8.1,2.8,8.4l0,0
+						l0.8-0.5l0,0C-607.3,70.8-610.3,70.6-610.3,62.9 M-570.2,63.2c0.1-8.7-3.3-10.3-3.3-10.3l0,0l-1.3,0.2l0,0
+						c0.8,0.6,3.2,3,3.1,10.1l0,0c-0.2,7-2,9.2-2.8,9.7l0,0l1,0.1l0,0C-573.5,73-570.4,72.5-570.2,63.2"/>
+				</g>
+				<g transform="matrix(1,0,0,1,43.045666,3.0331783)">
+					<path class="st17" d="M-608.9,76.4c-0.8,0.1-1.7,0.1-2,0.1l0,0l0.2,0l0,0c0,0,1-0.1,2.1-0.1l0,0c1.1-0.1,1.8-0.6,1.8-0.6l0,0
+						c3.1-0.9,5.6-4.2,6.4-8.2l0,0c0.2-0.9,0.3-1.9,0.3-2.8l0,0c0-0.9-0.1-1.9-0.3-2.8l0,0c-0.8-4.1-3.3-7.3-6.4-8.2l0,0
+						c0,0-0.7-0.6-1.8-0.6l0,0c-1.1-0.1-2.1-0.1-2.1-0.1l0,0l-0.2,0l0,0c0.3,0,1.1,0.1,2,0.1l0,0c1.1,0.1,1.8,0.6,1.8,0.6l0,0
+						c3.1,0.9,5.6,4.2,6.4,8.2l0,0c0.2,0.9,0.3,1.9,0.3,2.8l0,0c0,0.9-0.1,1.9-0.3,2.8l0,0c-0.8,4.1-3.3,7.3-6.4,8.2l0,0
+						C-607.1,75.7-607.8,76.3-608.9,76.4"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0.31886864,4.4937115)">
+					<path class="st21" d="M-603.8,70.7l23.5,1.4l0,0c0.3-1.3,1-4,1-8.5l0,0c0-3.9-0.8-7.7-1.1-9.1l0,0l-23.3,1l0,0
+						c0,0-2.8,0.6-2.7,7.7l0,0C-606.3,70.3-603.8,70.7-603.8,70.7 M-610.2,63.6c0,0.1,0,0.2-0.1,0.3l0,0c-0.1,0.1-0.2,0.1-0.3,0.1
+						l0,0c-0.1,0-0.2,0-0.3-0.1l0,0c-0.1-0.1-0.1-0.2-0.1-0.3l0,0c0-0.1,0-0.2,0.1-0.3l0,0c0.1-0.1,0.2-0.1,0.3-0.1l0,0
+						c0.1,0,0.2,0,0.3,0.1l0,0C-610.2,63.4-610.2,63.5-610.2,63.6 M-569.5,52.9l-1.2,0.3l0,0c0,0,5,0.4,11.3,3.3l0,0
+						c0,0-1-2.1-3.3-3.5l0,0L-569.5,52.9 M-562.7,73.5c2.3-1.4,3.3-3.5,3.3-3.5l0,0c-6.3,2.9-11.3,3.3-11.3,3.3l0,0l1.2,0.3l0,0
+						L-562.7,73.5"/>
+				</g>
+				<g transform="matrix(1,0,0,1,1.5771275,3.3572226)">
+					<path class="st22" d="M-608.1,54.7c-1.5,0.5-2.8,1.8-2.8,1.8l0,0c1-2.5,3.3-3.3,3.3-3.3l0,0c2.4-0.8,2.1,0.3,1.8,0.7l0,0
+						C-606.1,54.4-607.5,54.5-608.1,54.7 M-608.1,74.1c-1.5-0.5-2.8-1.8-2.8-1.8l0,0c1,2.5,3.3,3.3,3.3,3.3l0,0
+						c2.4,0.8,2.1-0.3,1.8-0.7l0,0C-606.1,74.3-607.5,74.3-608.1,74.1"/>
+				</g>
+				<g transform="matrix(1,0,0,1,3.9148095,14.739113)">
+					<path class="st23" d="M-607.6,53.3c0.1,0,0.2-0.1,0.2-0.2l0,0c0-0.1-0.1-0.2-0.2-0.2l0,0h-0.9l0,0c-0.1,0-0.2,0.1-0.2,0.1l0,0
+						h-0.9l0,0v0l0,0h-1.2l0,0c0,0,0,0,0,0l0,0c0,0,0,0,0,0l0,0h1.2l0,0v0l0,0h0.9l0,0c0,0.1,0.1,0.2,0.2,0.2l0,0H-607.6"/>
+				</g>
+				<g transform="matrix(1,0,0,1,46.844128,3.7937813)">
+					<path class="st24" d="M-610.2,53.6c1.6,1,2.6,2.3,3,3l0,0c0.4,0.2,0.8,0.4,1.2,0.5l0,0c0,0-1-2.1-3.3-3.5l0,0
+						c-0.6-0.4-1.6-0.7-1.6-0.7l0,0L-610.2,53.6 M-607.2,71.2c-0.5,0.7-1.4,2-3,3l0,0l-0.7,0.7l0,0c0,0,1-0.3,1.6-0.7l0,0
+						c2.3-1.4,3.3-3.5,3.3-3.5l0,0C-606.3,70.9-606.8,71.1-607.2,71.2"/>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,589.5,450.6)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -584.813 57.075)" class="st8 st9">Fase 3: Fase de prueba</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,793,443.5)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -540.7051 59.875)" class="st8 st13">(8)</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,1083.8062,441)">
+				<g transform="matrix(1,0,0,1,17.851446,5.8368826)">
+					<path class="st5" d="M-603.9,65.4c-0.7,0.3-1.5,0.5-2.2,0.5l0,0c-0.3,0-0.6,0-0.9-0.1l0,0l-3.9-9.4l0,0
+						c0.3,0.1,0.6,0.1,0.9,0.1l0,0c0.8,0,1.5-0.2,2.2-0.5l0,0c2.2-0.9,3.8-3.1,6.7-3.1l0,0c0.2,0,0.4,0,0.7,0l0,0l3.9,9.5l0,0
+						C-600.5,62.5-601.5,64.5-603.9,65.4L-603.9,65.4L-603.9,65.4 M-605,55.5c-0.1,0-0.1,0.1-0.2,0.1l0,0l1,2.3l0,0l-0.3,0.2l0,0
+						c-0.6,0.4-1.2,0.8-1.9,1.1l0,0l-1-2.3l0,0c0,0-0.1,0-0.1,0l0,0c-0.6,0.3-1.3,0.4-1.9,0.5l0,0l1,2.4l0,0
+						c0.6-0.1,1.1-0.2,1.6-0.4l0,0c0.1,0,0.2-0.1,0.3-0.2l0,0l1,2.5l0,0c-0.1,0.1-0.2,0.1-0.3,0.2l0,0c-0.5,0.2-1.1,0.4-1.6,0.5l0,0
+						l1,2.5l0,0c0,0,0.1,0,0.1,0l0,0c0.6,0,1.3-0.2,1.8-0.4l0,0c0,0,0.1,0,0.1,0l0,0l-1.1-2.7l0,0c0.7-0.4,1.5-0.8,2.1-1.2l0,0
+						l1.1,2.7l0,0c0.7-0.5,1.4-0.9,2.2-1.2l0,0l-1.1-2.7l0,0c-0.7,0.3-1.4,0.7-2.1,1.2l0,0l-0.1,0l0,0l-1-2.5l0,0
+						c0.7-0.5,1.4-0.9,2.1-1.2l0,0l-1-2.4l0,0C-603.7,54.7-604.4,55.1-605,55.5L-605,55.5L-605,55.5 M-601.7,56.7
+						c-0.1,0-0.2,0.1-0.3,0.2l0,0l1,2.4l0,0c0.6-0.3,1.2-0.5,1.8-0.6l0,0l-1-2.5l0,0C-600.7,56.3-601.2,56.5-601.7,56.7L-601.7,56.7
+						L-601.7,56.7"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0,5.837934)">
+					<path class="st5" d="M-596.5,56.4l-3.9,9.4l0,0c-0.3,0.1-0.6,0.1-0.9,0.1l0,0c-0.8,0-1.5-0.2-2.2-0.5l0,0
+						c-2.4-1-3.4-2.9-7.3-3.1l0,0l3.9-9.5l0,0c0.2,0,0.4,0,0.7,0l0,0c2.9,0,4.5,2.2,6.7,3.1l0,0c0.7,0.3,1.5,0.5,2.2,0.5l0,0
+						C-597.1,56.5-596.8,56.4-596.5,56.4L-596.5,56.4L-596.5,56.4 M-607.2,56.2l-1,2.5l0,0c0.6,0.1,1.3,0.3,1.9,0.6l0,0l1-2.4l0,0
+						c-0.1,0-0.2-0.1-0.3-0.1l0,0C-606.2,56.5-606.7,56.3-607.2,56.2L-607.2,56.2L-607.2,56.2 M-600.1,56.9
+						C-600.1,56.9-600.1,56.9-600.1,56.9L-600.1,56.9l-1,2.3l0,0c-0.6-0.3-1.3-0.7-1.9-1.1l0,0l-0.3-0.2l0,0l1-2.3l0,0
+						c-0.1,0-0.1-0.1-0.2-0.1l0,0c-0.6-0.4-1.2-0.8-1.9-1.2l0,0l-1,2.4l0,0c0.7,0.3,1.5,0.7,2.1,1.2l0,0l-1,2.5l0,0l-0.1,0l0,0
+						c-0.7-0.4-1.3-0.8-2.1-1.2l0,0l-1.1,2.7l0,0c0.8,0.3,1.5,0.7,2.2,1.2l0,0l1.1-2.7l0,0c0.7,0.5,1.4,0.9,2.1,1.2l0,0l-1.1,2.7
+						l0,0c0,0,0.1,0,0.1,0l0,0c0.6,0.3,1.2,0.4,1.8,0.4l0,0c0,0,0.1,0,0.1,0l0,0l1-2.5l0,0c-0.6-0.1-1.1-0.3-1.6-0.5l0,0
+						c-0.1,0-0.2-0.1-0.3-0.2l0,0l1-2.5l0,0c0.1,0.1,0.2,0.1,0.3,0.2l0,0c0.5,0.2,1.1,0.4,1.6,0.4l0,0l1-2.4l0,0
+						C-598.8,57.4-599.4,57.2-600.1,56.9L-600.1,56.9L-600.1,56.9"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.323328,-5.4510384)">
+					<path class="st5" d="M-605.3,62.6l3.9,9.4l0,0c0.1,0.4,0,0.8-0.4,0.9l0,0c-0.3,0.1-0.7,0-0.9-0.4l0,0l-3.3-8.1l0,0l-3.3,8.1
+						l0,0c-0.1,0.4-0.5,0.5-0.9,0.4l0,0c-0.4-0.1-0.5-0.5-0.4-0.9l0,0c0,0,0,0,0,0l0,0l3.9-9.4l0,0l-3.6-8.7l0,0
+						c-0.2-0.4,0-0.8,0.4-0.9l0,0c0.4-0.2,0.8,0,0.9,0.4l0,0c0,0,0,0,0,0l0,0l3,7.3l0,0l3-7.3l0,0c0.2-0.4,0.6-0.5,0.9-0.4l0,0
+						c0.3,0.2,0.5,0.5,0.4,0.9l0,0L-605.3,62.6"/>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,666,691.875)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st27" d="M-610.9,52.9h45"/>
+				</g>
+				<path class="st28" d="M-610.9,52.9h45"/>
+			</g>
+			<g transform="matrix(1,0,0,1,666,675)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st27" d="M-610.9,52.9h45"/>
+				</g>
+				<path class="st28" d="M-610.9,52.9h45"/>
+			</g>
+			<g transform="matrix(1,0,0,1,666,683.3333)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st29" d="M-610.9,52.9h45"/>
+				</g>
+				<path class="st30" d="M-610.9,52.9h45"/>
+			</g>
+			<g transform="matrix(1,0,0,1,1053,558)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st27" d="M-610.9,52.9h45"/>
+				</g>
+				<path class="st28" d="M-610.9,52.9h45"/>
+			</g>
+			<g transform="matrix(1,0,0,1,1055.1392,531)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st27" d="M-610.9,52.9h45"/>
+				</g>
+				<path class="st28" d="M-610.9,52.9h45"/>
+			</g>
+			<g transform="matrix(1,0,0,1,1053.0682,545.8479)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st29" d="M-610.9,52.9h45"/>
+				</g>
+				<path class="st30" d="M-610.9,52.9h45"/>
+			</g>
+			<g transform="matrix(1,0,0,1,1116,427.5)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st27" d="M-610.9,52.9h36"/>
+				</g>
+				<path class="st28" d="M-610.9,52.9h36"/>
+			</g>
+			<g transform="matrix(1,0,0,1,1116,414)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st27" d="M-610.9,52.9h36"/>
+				</g>
+				<path class="st28" d="M-610.9,52.9h36"/>
+			</g>
+			<g transform="matrix(1,0,0,1,1116,421)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st31" d="M-610.9,52.9h36"/>
+				</g>
+				<path class="st32" d="M-610.9,52.9h36"/>
+			</g>
+			<g transform="matrix(1,0,0,1,666,423)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st27" d="M-610.9,52.9h27"/>
+				</g>
+				<path class="st28" d="M-610.9,52.9h27"/>
+			</g>
+			<g transform="matrix(1,0,0,1,666,405)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st27" d="M-610.9,52.9h27"/>
+				</g>
+				<path class="st28" d="M-610.9,52.9h27"/>
+			</g>
+			<g transform="matrix(1,0,0,1,666,423)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st31" d="M-610.9,52.9h27"/>
+				</g>
+				<path class="st32" d="M-610.9,52.9h27"/>
+			</g>
+			<g transform="matrix(1,0,0,1,1081.9031,411.1254)">
+				<userDefs>
+					<ud  nameU="AntiScale" val="1"></ud>
+					<ud  nameU="HasText" val="0"></ud>
+					<ud  nameU="visVersion" val="16"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="7"></ud>
+					<ud  nameU="ShapeType" val="43"></ud>
+					<ud  nameU="SubShapeType" val="0"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Sitework"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Vehicles"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st16" d="M-598,54.7h0.9l0,0v0.1l0,0l-0.9,0l0,0V54.7 M-598,68.8L-598,68.8L-598,68.8l0.9-0.1l0,0v0.1l0,0H-598
+						 M-579,63.4c0.1-0.5,0.2-1.1,0.2-1.7l0,0c0-0.6-0.1-1.2-0.2-1.7l0,0c-0.5-2.4-2-4.4-3.8-4.9l0,0c0,0-0.4-0.3-1.1-0.4l0,0
+						c-0.6,0-1.3-0.1-1.3-0.1l0,0l-3.6,0.2l0,0l-0.7,0l0,0c0.2-1.5-0.7-1.9-0.7-1.9l0,0c-0.4-0.1-0.4,0.2-0.4,0.2l0,0l0.3,1.8l0,0
+						l0,0l0,0l-6.2,0l0,0c-0.1-0.2-0.2-0.3-0.4-0.3l0,0h-1l0,0c-0.2,0-0.4,0.1-0.4,0.3l0,0l-6.3,0l0,0l-1.5-0.1l0,0
+						c-1.4-0.1-4,0.4-4.6,4.7l0,0l-0.1,2.3l0,0l0.1,2.3l0,0c0.6,4.3,3.2,4.8,4.6,4.7l0,0l1.5-0.1l0,0l6.4,0l0,0
+						c0.1,0.2,0.2,0.3,0.4,0.3l0,0h1l0,0c0.2,0,0.3-0.1,0.4-0.3l0,0l6.2,0l0,0l0,0l0,0l-0.3,1.8l0,0c0,0-0.1,0.3,0.4,0.2l0,0
+						c0,0,0.9-0.4,0.7-1.9l0,0l0.7,0l0,0l3.6,0.2l0,0c0,0,0.6,0,1.3-0.1l0,0c0.6,0,1.1-0.4,1.1-0.4l0,0
+						C-581,67.8-579.5,65.9-579,63.4"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0.9212618,1.9416523)">
+					<path class="st17" d="M-600.9,66.2c-0.1,0.1-0.2,0.2-0.2,0.5l0,0h0l0,0C-601.1,66.4-600.8,66.2-600.9,66.2L-600.9,66.2
+						L-600.9,66.2 M-609.9,59.8c0-4.3,1.7-4.9,1.7-4.9l0,0l-0.6-0.3l0,0c0,0-2,0.5-2,5.2l0,0c0,4.5,2,5.4,2,5.4l0,0l0.6-0.4l0,0
+						C-608.3,64.8-609.9,64.4-609.9,59.8 M-601.4,66.3c0,0-0.3-0.5-0.3-1.1l0,0l-3.1,0.6l0,0L-601.4,66.3 M-601.4,65.2
+						c0,0,0,0.5,0.4,1.1l0,0h12.1l0,0C-588.8,66.2-591.3,65.1-601.4,65.2 M-604.8,53.8l3.1,0.6l0,0c0-0.6,0.3-1.1,0.3-1.1l0,0
+						L-604.8,53.8 M-601.4,54.4c10.1,0.1,12.6-1,12.6-1.1l0,0h-12.1l0,0c0,0-0.3-0.2-0.3-0.5l0,0h0l0,0c0,0.3,0.2,0.4,0.2,0.5l0,0
+						C-601.3,53.9-601.4,54.4-601.4,54.4"/>
+				</g>
+				<g transform="matrix(1,0,0,1,18.832432,2.8684826)">
+					<path class="st18" d="M-603.6,59.1c0.1-5.4-2-6.2-2-6.2l0,0l-5.4,0.8l0,0c0,0,0.6,2.9,0.6,5.4l0,0c0,3.1-0.6,5.1-0.6,5.1l0,0
+						l5.4,0.7l0,0C-605.5,64.9-603.7,64.7-603.6,59.1"/>
+				</g>
+				<g transform="matrix(1,0,0,1,18.832432,3.671236)">
+					<path class="st19" d="M-605.5,64.1l-5.4-11.2l0,0c0,0,0.6,2.9,0.6,5.4l0,0c0,3.1-0.6,5.1-0.6,5.1l0,0L-605.5,64.1"/>
+				</g>
+				<g transform="matrix(1,0,0,1,1.8427811,2.8687425)">
+					<path class="st20" d="M-610.5,58.9c0-4.5,1.8-4.7,1.8-4.7l0,0l-0.4-0.2l0,0c-0.5,0.3-1.7,1.2-1.7,4.9l0,0c0,4,1.2,4.8,1.7,5
+						l0,0l0.5-0.3l0,0C-608.7,63.6-610.5,63.5-610.5,58.9 M-586.6,59c0.1-5.2-2-6.1-2-6.1l0,0l-0.8,0.1l0,0c0.5,0.4,1.9,1.8,1.8,6
+						l0,0c-0.1,4.2-1.2,5.5-1.6,5.8l0,0l0.6,0.1l0,0C-588.5,64.9-586.7,64.6-586.6,59"/>
+				</g>
+				<g transform="matrix(1,0,0,1,25.72812,1.8129115)">
+					<path class="st17" d="M-609.7,66.9c-0.5,0-1,0.1-1.2,0.1l0,0l0.1,0l0,0c0,0,0.6,0,1.3-0.1l0,0c0.6,0,1.1-0.4,1.1-0.4l0,0
+						c1.9-0.5,3.3-2.5,3.8-4.9l0,0c0.1-0.5,0.2-1.1,0.2-1.7l0,0c0-0.6-0.1-1.2-0.2-1.7l0,0c-0.5-2.4-2-4.4-3.8-4.9l0,0
+						c0,0-0.4-0.3-1.1-0.4l0,0c-0.6,0-1.3-0.1-1.3-0.1l0,0l-0.1,0l0,0c0.2,0,0.7,0,1.2,0.1l0,0c0.6,0,1.1,0.4,1.1,0.4l0,0
+						c1.9,0.5,3.3,2.5,3.8,4.9l0,0c0.1,0.5,0.2,1.1,0.2,1.7l0,0c0,0.6-0.1,1.2-0.2,1.7l0,0c-0.5,2.4-2,4.4-3.8,4.9l0,0
+						C-608.6,66.5-609.1,66.9-609.7,66.9"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0.190588,2.685863)">
+					<path class="st21" d="M-606.6,63.5l14.1,0.9l0,0c0.2-0.8,0.6-2.4,0.6-5.1l0,0c0-2.3-0.5-4.6-0.6-5.4l0,0l-14,0.6l0,0
+						c0,0-1.7,0.3-1.6,4.6l0,0C-608.1,63.3-606.6,63.5-606.6,63.5 M-610.4,59.3c0,0.1,0,0.1-0.1,0.2l0,0c0,0-0.1,0.1-0.2,0.1l0,0
+						c-0.1,0-0.1,0-0.2-0.1l0,0c0,0-0.1-0.1-0.1-0.2l0,0c0-0.1,0-0.1,0.1-0.2l0,0c0,0,0.1-0.1,0.2-0.1l0,0c0.1,0,0.1,0,0.2,0.1l0,0
+						C-610.5,59.1-610.4,59.2-610.4,59.3 M-586.2,52.9l-0.7,0.2l0,0c0,0,3,0.2,6.8,2l0,0c0,0-0.6-1.3-2-2.1l0,0L-586.2,52.9
+						 M-582.1,65.2c1.4-0.8,2-2.1,2-2.1l0,0c-3.8,1.7-6.8,2-6.8,2l0,0l0.7,0.2l0,0L-582.1,65.2"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0.94263875,2.0065904)">
+					<path class="st22" d="M-609.2,53.9c-0.9,0.3-1.7,1.1-1.7,1.1l0,0c0.6-1.5,2-2,2-2l0,0c1.4-0.5,1.2,0.2,1.1,0.4l0,0
+						C-608,53.8-608.9,53.8-609.2,53.9 M-609.2,65.5c-0.9-0.3-1.7-1.1-1.7-1.1l0,0c0.6,1.5,2,2,2,2l0,0c1.4,0.5,1.2-0.2,1.1-0.4l0,0
+						C-608,65.7-608.9,65.7-609.2,65.5"/>
+				</g>
+				<g transform="matrix(1,0,0,1,2.3398564,8.809474)">
+					<path class="st23" d="M-608.9,53.1c0.1,0,0.1-0.1,0.1-0.1l0,0c0-0.1-0.1-0.1-0.1-0.1l0,0h-0.5l0,0c-0.1,0-0.1,0-0.1,0.1l0,0
+						h-0.6l0,0v0l0,0h-0.7l0,0c0,0,0,0,0,0l0,0c0,0,0,0,0,0l0,0h0.7l0,0v0l0,0h0.6l0,0c0,0.1,0.1,0.1,0.1,0.1l0,0H-608.9"/>
+				</g>
+				<g transform="matrix(1,0,0,1,27.998436,2.267519)">
+					<path class="st24" d="M-610.5,53.3c1,0.6,1.5,1.4,1.8,1.8l0,0c0.2,0.1,0.5,0.2,0.7,0.3l0,0c0,0-0.6-1.3-2-2.1l0,0
+						c-0.4-0.2-1-0.4-1-0.4l0,0L-610.5,53.3 M-608.7,63.9c-0.3,0.4-0.9,1.2-1.8,1.8l0,0l-0.4,0.4l0,0c0,0,0.6-0.2,1-0.4l0,0
+						c1.4-0.8,2-2.1,2-2.1l0,0C-608.2,63.6-608.4,63.8-608.7,63.9"/>
+				</g>
+			</g>
+			<g transform="matrix(-0,-1,1,0,1101.8268,621)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<path class="st6" d="M-52.9-589.6v-14.2l0,0h20.2l0,0v-7.1l0,0l6.8,14.2l0,0l-6.8,14.2l0,0v-7.1l0,0H-52.9z"/>
+				</g>
+				<path class="st7" d="M-52.9-589.6v-14.2l0,0h20.2l0,0v-7.1l0,0l6.8,14.2l0,0l-6.8,14.2l0,0v-7.1l0,0H-52.9z"/>
+			</g>
+			<g transform="matrix(-0,-1,1,0,750.8268,486)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<path class="st6" d="M-52.9-589.6v-14.2l0,0h20.2l0,0v-7.1l0,0l6.8,14.2l0,0l-6.8,14.2l0,0v-7.1l0,0H-52.9z"/>
+				</g>
+				<path class="st7" d="M-52.9-589.6v-14.2l0,0h20.2l0,0v-7.1l0,0l6.8,14.2l0,0l-6.8,14.2l0,0v-7.1l0,0H-52.9z"/>
+			</g>
+			<g transform="matrix(-1,0,0,-1,805.63635,429.48557)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st5" d="M689.1-45.2c1.6,0,2.8-0.5,2.8-1.1l0,0c0-0.6-1.2-1.1-2.8-1.1l0,0h-68.9l0,0l8.2-3.4l0,0
+						c1.1-0.4,1.1-1.1,0-1.6l0,0c-0.6-0.2-1.3-0.3-1.9-0.3l0,0c-0.6,0-1.4,0.1-1.9,0.3l0,0l-12.9,5.3l0,0c-1.1,0.4-1.1,1.1,0,1.6
+						l0,0l12.9,5.3l0,0c1,0.5,2.8,0.5,3.9,0l0,0c1.1-0.4,1.1-1.1,0-1.6l0,0l-8.2-3.4l0,0H689.1"/>
+				</g>
+			</g>
+			<g transform="matrix(-1,0,0,-1,805.6666,402.48557)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st5" d="M689.1-45.2c1.6,0,2.8-0.5,2.8-1.1l0,0c0-0.6-1.2-1.1-2.8-1.1l0,0h-68.9l0,0l8.2-3.4l0,0
+						c1.1-0.4,1.1-1.1,0-1.6l0,0c-0.6-0.2-1.3-0.3-1.9-0.3l0,0c-0.6,0-1.4,0.1-1.9,0.3l0,0l-12.9,5.3l0,0c-1.1,0.4-1.1,1.1,0,1.6
+						l0,0l12.9,5.3l0,0c1,0.5,2.8,0.5,3.9,0l0,0c1.1-0.4,1.1-1.1,0-1.6l0,0l-8.2-3.4l0,0H689.1"/>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,689,423)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -595.2148 59.275)" class="st33 st12">Estadísticas por ventana</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,689.1666,396)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -579.5498 59.275)" class="st33 st12">Condición de ruta</text>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,950,412)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<text transform="matrix(1 0 0 -1 -586.543 73.675)" class="st33 st12">Estilo de conducción</text>
+					<text transform="matrix(1 0 0 -1 -570.5439 59.275)" class="st33 st12"> por condición</text>
+					<text transform="matrix(1 0 0 -1 -553.877 44.875)" class="st33 st12"> de ruta</text>
+				</g>
+			</g>
+			<g transform="matrix(-1,0,0,-1,980.86365,428.87332)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st5" d="M662.9-45.2c1,0,1.8-0.5,1.8-1.1l0,0c0-0.6-0.8-1.1-1.8-1.1l0,0h-45.8l0,0l5.4-3.4l0,0
+						c0.7-0.4,0.7-1.1,0-1.6l0,0c-0.4-0.2-0.9-0.3-1.3-0.3l0,0c-0.4,0-0.9,0.1-1.3,0.3l0,0l-8.6,5.3l0,0c-0.7,0.4-0.7,1.1,0,1.6l0,0
+						l8.6,5.3l0,0c0.7,0.5,1.8,0.5,2.6,0l0,0c0.7-0.4,0.7-1.1,0-1.6l0,0l-5.4-3.4l0,0H662.9"/>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,872.9318,490.53384)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Cost" nameU="Cost" type="7" val="0"></cp>
+					<cp  langID="1033" lbl="Duration" nameU="Duration" type="2" val="0"></cp>
+					<cp  langID="1033" lbl="Resources" nameU="Resources" type="0" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Cost" nameU="Cost" type="7" val="0"></cp>
+						<cp  langID="1033" lbl="Duration" nameU="Duration" type="2" val="0"></cp>
+						<cp  langID="1033" lbl="Resources" nameU="Resources" type="0" val="0"></cp>
+					</custProps>
+					<path class="st2" d="M-610.9,77.1V55.6l0,0c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+						c6.3,0.3,10.9,1.4,10.9,2.7l0,0v21.5l0,0c0,1.3-4.6,2.4-10.9,2.7l0,0c-0.9,0-1.8,0.1-2.7,0.1l0,0c-0.9,0-1.8,0-2.7-0.1l0,0
+						C-606.3,79.5-610.9,78.4-610.9,77.1z"/>
+				</g>
+				<path class="st3" d="M-610.9,77.1V55.6l0,0c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+					c6.3,0.3,10.9,1.4,10.9,2.7l0,0v21.5l0,0c0,1.3-4.6,2.4-10.9,2.7l0,0c-0.9,0-1.8,0.1-2.7,0.1l0,0c-0.9,0-1.8,0-2.7-0.1l0,0
+					C-606.3,79.5-610.9,78.4-610.9,77.1z"/>
+				<path class="st4" d="M-610.9,77.1c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+					c6.3,0.3,10.9,1.4,10.9,2.7"/>
+				<path class="st4" d="M-610.9,75.7c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+					c6.3,0.3,10.9,1.4,10.9,2.7l0,0c0,0,0,0,0,0"/>
+				<path class="st4" d="M-610.9,74.4c0-1.3,4.6-2.4,10.9-2.7l0,0c0.9,0,1.8-0.1,2.7-0.1l0,0c0.9,0,1.8,0,2.7,0.1l0,0
+					c6.3,0.3,10.9,1.4,10.9,2.7l0,0c0,0,0,0,0,0"/>
+			</g>
+			<g transform="matrix(1,0,0,1,994.4318,490.43182)">
+				<g transform="matrix(1,0,0,1,0,0)">
+					<path class="st5" d="M-586.1,55.3h-24.7l0,0v-2.4l0,0h27.1l0,0V80l0,0h-2.4l0,0V55.3"/>
+				</g>
+				<g transform="matrix(1,0,0,1,0,5.1479273)">
+					<path class="st5" d="M-610.9,55.4V53l0,0c0,0,0.1,0,0.2,0l0,0c4.9-0.2,7.7,3,8.3,9.5l0,0c0.7,6.7,2.3,6.7,3,6.7l0,0
+						c0.6,0,2.3,0,3-6.7l0,0c0.6-6.3,3.3-9.5,8-9.5l0,0c0.1,0,0.2,0,0.4,0l0,0c0.1,0,0.2,0,0.2,0l0,0v2.4l0,0c-0.1,0-0.2,0-0.3,0
+						l0,0c-1.4,0-5.1-0.2-5.9,7.3l0,0c-0.6,6.2-2.2,8.8-5.3,8.8l0,0c-3.1,0-4.7-2.6-5.4-8.7l0,0c-0.8-7.5-4.5-7.4-5.9-7.3l0,0
+						C-610.7,55.4-610.8,55.4-610.9,55.4L-610.9,55.4L-610.9,55.4"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.093984,13.488369)">
+					<path class="st5" d="M-610.9,52.9h0.8l0,0v2l0,0h-0.8l0,0V52.9z"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.093984,9.896791)">
+					<path class="st5" d="M-610.9,52.9h0.8l0,0v2l0,0h-0.8l0,0V52.9z"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.093984,16.960228)">
+					<path class="st5" d="M-610.9,52.9h0.8l0,0v2l0,0h-0.8l0,0V52.9z"/>
+				</g>
+				<g transform="matrix(1,0,0,1,11.093984,6.3850265)">
+					<path class="st5" d="M-610.9,52.9h0.8l0,0v1.9l0,0h-0.8l0,0V52.9z"/>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,738.7273,487.76843)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,-1,0,29.697739)">
+					<g transform="matrix(0.056416556,0,0,0.056352444,-0,-0)">
+						<g>
+							<g transform="matrix(0.013888889,0,0,0.013888889,0,0)">
+								
+									<image style="overflow:visible;enable-background:new    ;" width="159" height="174" xlink:href="7297C45F819ABC9.bmp"  transform="matrix(217.9483 0 0 217.9517 -779610.375 -67546.7578)">
+								</image>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,861.75,342.00003)">
+				<g transform="matrix(1,0,0,1,0,0)">
+				</g>
+				<g transform="matrix(1,0,0,-1,0,39.33247)">
+					<g transform="matrix(0.076850094,0,0,0.07697157,-0,-0)">
+						<g>
+							<g transform="matrix(0.013888889,0,0,0.013888889,0,0)">
+								
+									<image style="overflow:visible;enable-background:new    ;" width="278" height="270" xlink:href="7297C45F819ABCB.bmp"  transform="matrix(136.3803 0 0 136.3794 -572303.125 -49474.6133)">
+								</image>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="matrix(1,0,0,1,665.5129,413.99954)">
+				<userDefs>
+					<ud  nameU="visVersion" val="15"></ud>
+					<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+					<ud  nameU="ShapeClass" val="3"></ud>
+					<ud  nameU="ShapeType" val="19"></ud>
+					<ud  nameU="SubShapeType" val="56"></ud>
+				</userDefs>
+				<custProps>
+					<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+					<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+					<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+					<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+				</custProps>
+				<g transform="matrix(1,0,0,1,0,0)">
+					<userDefs>
+						<ud  nameU="visVersion" val="15"></ud>
+						<ud  nameU="SolSH" val="{5D50005D-537C-4738-9C46-130C74335A6D}"></ud>
+						<ud  nameU="ShapeClass" val="3"></ud>
+						<ud  nameU="ShapeType" val="19"></ud>
+						<ud  nameU="SubShapeType" val="56"></ud>
+					</userDefs>
+					<custProps>
+						<cp  langID="1033" lbl="Shape class" nameU="ShapeClass" type="0" val="Building Component"></cp>
+						<cp  langID="1033" lbl="Shape type" nameU="ShapeType" type="0" val="Flow Segment"></cp>
+						<cp  langID="1033" lbl="Subshape type" nameU="SubShapeType" type="0" val="Pipe Segment"></cp>
+						<cp  langID="1033" lbl="Base elevation" nameU="BaseElevation" type="2" val="0"></cp>
+					</custProps>
+					<path class="st31" d="M-610.9,52.9h36"/>
+				</g>
+				<path class="st32" d="M-610.9,52.9h36"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
